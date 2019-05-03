@@ -1,0 +1,17 @@
+
+CREATE OR REPLACE FUNCTION datediff(type VARCHAR, date_from DATE, date_to DATE) RETURNS INTEGER LANGUAGE plpgsql
+AS
+$$
+DECLARE age INTERVAL;
+BEGIN
+    CASE type
+        WHEN 'year' THEN
+            RETURN date_part('year', date_to) - date_part('year', date_from);
+        WHEN 'month' THEN
+            age := age(date_to, date_from);
+            RETURN date_part('year', age) * 12 + date_part('month', age);
+        ELSE
+            RETURN (date_to - date_from)::int;
+    END CASE;
+END;
+$$;

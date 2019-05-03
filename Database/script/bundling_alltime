@@ -1,0 +1,75 @@
+--this is to get every quarter's bundledservices data
+select s1.*, s2.*, s3.*, s4.*, s5.*, s6.*,s7.*,s8.*,s9.*,s10.*,s11.*,s12.*,s13.*,s14.*,s15.* from
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.baseline_baseline is true)s1
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment    --102 bc we changed one record in 2015Q3 baseline to checkin 
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2015 Q3' and r.baseline_baseline is false)s2
+on s1.clientid = s2.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --408 
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2015 Q4' and r.baseline_baseline is false)s3
+on s3.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1005
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2016 Q1' and r.baseline_baseline is false)s4
+on s4.clientid =s1.clientid
+left join 
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1057
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2016 Q2' and r.baseline_baseline is false)s5
+on s5.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --972
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2016 Q3' and r.baseline_baseline is false)s6
+on s6.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1082
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2016 Q4' and r.baseline_baseline is false)s7
+on s7.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1360
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2017 Q1' and r.baseline_baseline is false)s8
+on s8.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1394
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2017 Q2' and r.baseline_baseline is false)s9
+on s9.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1481
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2017 Q3' and r.baseline_baseline is false)s10
+on s10.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1509
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2017 Q4' and r.baseline_baseline is false)s11
+on s11.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1715
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2018 Q1' and r.baseline_baseline is false)s12
+on s12.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1778
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2018 Q2' and r.baseline_baseline is false)s13
+on s13.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1563
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2018 Q3' and r.baseline_baseline is false)s14
+on s14.clientid = s1.clientid
+left join
+(select r.clientid, bc.accessincome, bc.accessfinancialcoach, bc.accessemployment     --1226
+from records r join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+where r.quarter ='2018 Q4' and r.baseline_baseline is false)s15
+on s15.clientid = s1.clientid;

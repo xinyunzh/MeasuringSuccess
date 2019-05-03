@@ -1,0 +1,38 @@
+create view employment_alltime as 
+select clientid, 
+case
+when employmentstatus_2018q4 is not null then  employmentstatus_2018q4
+when employmentstatus_2018q3 is not null then  employmentstatus_2018q3
+when employmentstatus_2018q2 is not null then  employmentstatus_2018q2
+when employmentstatus_2018q1 is not null then  employmentstatus_2018q1
+when employmentstatus_2017q4 is not null then  employmentstatus_2017q4
+when employmentstatus_2017q3 is not null then  employmentstatus_2017q3
+when employmentstatus_2017q2 is not null then  employmentstatus_2017q2
+when employmentstatus_2017q1 is not null then  employmentstatus_2017q1
+when employmentstatus_2016q4 is not null then  employmentstatus_2016q4
+when employmentstatus_2016q3 is not null then  employmentstatus_2016q3
+when employmentstatus_2016q2 is not null then  employmentstatus_2016q2
+when employmentstatus_2016q1 is not null then  employmentstatus_2016q1
+when employmentstatus_2015q4 is not null then  employmentstatus_2015q4
+when employmentstatus_2015q3 is not null then  employmentstatus_2015q3
+else employmentstatus
+end as emp,
+case
+when employmentstartdate_2018q4 is not null then  employmentstartdate_2018q4
+when employmentstartdate_2018q3 is not null then  employmentstartdate_2018q3
+when employmentstartdate_2018q2 is not null then  employmentstartdate_2018q2
+when employmentstartdate_2018q1 is not null then  employmentstartdate_2018q1
+when employmentstartdate_2017q4 is not null then  employmentstartdate_2017q4
+when employmentstartdate_2017q3 is not null then  employmentstartdate_2017q3
+when employmentstartdate_2017q2 is not null then  employmentstartdate_2017q2
+when employmentstartdate_2017q1 is not null then  employmentstartdate_2017q1
+when employmentstartdate_2016q4 is not null then  employmentstartdate_2016q4
+when employmentstartdate_2016q3 is not null then  employmentstartdate_2016q3
+when employmentstartdate_2016q2 is not null then  employmentstartdate_2016q2
+when employmentstartdate_2016q1 is not null then  employmentstartdate_2016q1
+when employmentstartdate_2015q4 is not null then  employmentstartdate_2015q4
+when employmentstartdate_2015q3 is not null then  employmentstartdate_2015q3
+else employmentstartdate
+end as emp_date
+from employment_for_cal;
+

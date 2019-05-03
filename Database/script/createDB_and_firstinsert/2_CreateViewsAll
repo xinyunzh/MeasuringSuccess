@@ -1,0 +1,35 @@
+--create different views for each topic we have combining clientid and quarterly check-in information
+create view bundledservices_all as 
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, bc.accessincome, bc.accessemployment, bc.accessfinancialcoach, bc.bundledservices from records r
+join bundledservices_checkin bc on r.bundledservicesid=bc.bundledservicesid;
+
+create view employment_all as
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, e.accessemployment, e.employmentstatus, e.employmentstartdate, e.employmentretention, e.jobtrainingenrolled,
+e.jobtrainingcompleted
+from records r
+join employment e on e.employmentid = r.employmentid;
+
+create view financials_all as
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, f.savings, f.creditscore, f.debt
+from records r
+join financials f on f.financialsid = r.financialsid;
+
+create view fincap_all as 
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, fc.fincap_budget, fc.fincap_goals, fc.fincap_emergencyfund, fc.fincap_autodeposit, fc.fincap_incomeexpenses,
+fc.fincap_latefee
+from records r
+join fincap fc on fc.fincapid = r.fincapid;
+
+create view incomeexpenses_all as
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, i.incomeclient, i.incomehh, i.publicbenefits, i.expenseshh
+from records r
+join incomeexpenses i on i.incomeexpensesid = r.incomeexpensesid;
+
+
+create view wages_all as
+select r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, w.wages1, w.hours1, w.wages2, w.hours2
+from records r
+join wages w on w.wagesid = r.wagesid;
+
+
+

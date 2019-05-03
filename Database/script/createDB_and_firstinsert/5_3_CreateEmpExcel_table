@@ -1,0 +1,43 @@
+create temporary table temp_employment_excel(
+employmentid int,
+AccessEmployment varchar(10),
+EmploymentStatus varchar(50),
+EmploymentStartDate int,
+EmploymentRetention varchar(10),
+JobTrainingEnrolled varchar(10),
+JobTrainingCompleted varchar(10)
+);
+
+copy temp_employment_excel from 'C:\Users\Leah\Desktop\database\emp_excel_date.csv' DELIMITER  ',' csv header;
+
+select * from temp_employment_excel;
+
+--create the real table for employment
+create table Employment_excel(
+EmploymentID serial primary key,
+AccessEmployment varchar(10),
+EmploymentStatus varchar(50),
+EmploymentStartDate int,     --change date type to varchar for importing purpose
+EmploymentRetention varchar(10),
+JobTrainingEnrolled varchar(10),
+JobTrainingCompleted varchar(10)
+);
+
+--insert real data into employment
+insert into employment_excel (accessemployment, employmentstatus, employmentstartdate, employmentretention, jobtrainingenrolled, jobtrainingcompleted)
+select accessemployment, employmentstatus, employmentstartdate, employmentretention, jobtrainingenrolled, jobtrainingcompleted from temp_employment_excel
+order by employmentid asc;
+
+select employmentid, accessemployment, employmentstatus, employmentstartdate, to_timestamp_from_excel(employmentstartdate),
+employmentretention, jobtrainingenrolled, jobtrainingcompleted from employment_excel;
+
+copy
+(select ee.employmentid, ee.accessemployment, ee.employmentstatus, ee.employmentstartdate, to_timestamp_from_excel(ee.employmentstartdate), e.employmentstartdate
+from employment_excel ee 
+join employment e on e.employmentid = ee.employmentid) to 'C:\Users\Leah\Desktop\database\exports\see_date2.csv' with csv header;
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+create view checkin_earlier_than_baseline as
+select s1.*, s2.* from
+(select clientid as clientid_baseline, quarter as quarter_baseline, date as date_baseline, baseline_baseline as baseline from records
+where baseline_baseline is true)s1
+left join 
+(select clientid as clientid_checkin, quarter as quarter_checkin, date as date_checkin, baseline_baseline as checkin from records
+where baseline_baseline is false)s2
+on s1.clientid_baseline = s2.clientid_checkin
+where s1.date_baseline >s2.date_checkin
+order by s1.clientid_baseline;
+
+select agency, count(agency) from checkin_earlier_than_baseline
+join demographic d on clientid_baseline = d.clientid
+group by agency;
+
+select distinct clientid_baseline from checkin_earlier_than_baseline;    --433 rows
+
+

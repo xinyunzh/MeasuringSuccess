@@ -1,0 +1,32 @@
+create table Employment(
+EmploymentID serial primary key,
+AccessEmployment varchar(10),
+EmploymentStatus varchar(50),
+EmploymentStartDate timestamp,     --change date type to varchar for importing purpose
+EmploymentRetention varchar(10),
+JobTrainingEnrolled varchar(10),
+JobTrainingCompleted varchar(10)
+);
+
+insert into employment (accessemployment, employmentstatus, employmentstartdate, employmentretention, jobtrainingenrolled, jobtrainingcompleted)
+select accessemployment, employmentstatus, to_timestamp_from_excel(employmentstartdate), employmentretention, jobtrainingenrolled, jobtrainingcompleted 
+from employment_excel
+order by employmentid asc;
+
+
+--for check purpose
+copy 
+(select e1.employmentid as empid_varchar, e1.employmentstatus as emp_varchar, 
+e2.employmentid as empid_varchar, e2.employmentstatus as emp_emp, 
+e3.employmentid as empid_varchar, e3.employmentstatus as emp_excel, r.recordid, r.clientid 
+from employment_historic_varchar e1
+join records r on r.employmentid = e1.employmentid
+join employment e2 on e2.employmentid = e1.employmentid
+join employment_excel e3 on e3.employmentid = e2.employmentid
+order by e1.employmentid asc) to 'C:\Users\Leah\Desktop\database\exports\emp_see.csv' csv header;
+
+
+
+
+
+
