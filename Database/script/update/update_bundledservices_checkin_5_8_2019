@@ -1,0 +1,21 @@
+select accessfinancialcoach, count(accessfinancialcoach) from bundledservices_all
+group by accessfinancialcoach
+order by accessfinancialcoach asc;
+
+--need to update accessfinancialcoach value=1,0
+select count(*) from bundledservices_checkin                                      --345
+where accessfinancialcoach ='0'; 
+
+update bundledservices_checkin                                                    --345 rows affected
+set accessfinancialcoach ='No'
+where accessfinancialcoach ='0';  
+
+select count(*) from bundledservices_checkin                                      --459
+where accessfinancialcoach ='1'; 
+
+update bundledservices_checkin                                                    --459 rows affected
+set accessfinancialcoach ='Yes'
+where accessfinancialcoach ='1';  
+
+
+

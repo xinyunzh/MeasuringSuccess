@@ -1,0 +1,26 @@
+select distinct fincap_goals from fincap;
+
+select count(*) from fincap                                      --309
+where fincap_goals ='Somewhat Confident'; 
+
+update fincap
+set fincap_goals = 'Somewhat confident'                         --309 affected
+where fincap_goals ='Somewhat Confident'; 
+
+select count(*) from fincap                                      --520
+where fincap_goals ='0'; 
+
+update fincap
+set fincap_goals = 'Not at all confident'                        --520 affected
+where fincap_goals ='0'; 
+
+
+select count(*) from fincap                                      --1152
+where fincap_goals ='Very Confident'; 
+
+
+update fincap
+set fincap_goals ='Very confident'
+where fincap_goals ='Very Confident';                            --1152 affected
+
+
