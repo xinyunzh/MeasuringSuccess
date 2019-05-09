@@ -1,0 +1,13 @@
+create view records_all as
+(select d.agency, r.clientid, r.baseline_baseline, r.date, d.dob, d.gender, d.race, d.maritalstatus, d.highested, d.housingtype, d.hhadults, d.hhchildren, d.criminalbackground,
+d.zipcode, e.accessemployment, e.employmentstatus, e.employmentstartdate, e.employmentretention, e.JobTrainingEnrolled,	e.JobTrainingCompleted, f.Savings,f.CreditScore,
+f.Debt, bc.accessfinancialcoach, w.wages1, w.hours1, w.wages2, w.hours2, i.incomeclient, i.incomehh, i.publicbenefits, i.expenseshh, bc.benefitsscreening, bc.benefitsaccess,
+bc.agencyprovidedsupport, fc.FinCap_Budget, fc.FinCap_Goals, fc.FinCap_EmergencyFund, fc.FinCap_AutoDeposit, fc.FinCap_IncomeExpenses, fc.FinCap_LateFee
+from records r 
+join demographic d on d.clientid = r.clientid
+join employment e on e.employmentid = r.employmentid
+join financials f on f.financialsid = r.financialsid
+join bundledservices_checkin bc on bc.bundledservicesid = r.bundledservicesid
+join wages w on w.wagesid = r.wagesid
+join incomeexpenses i on i.incomeexpensesid = r.incomeexpensesid
+join fincap fc on fc.fincapid = r.fincapid);
