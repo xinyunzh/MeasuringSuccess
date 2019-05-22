@@ -1,0 +1,18 @@
+--check the distinct value and value count for accessemployment
+select accessemployment, count(accessemployment) from bundledservices_all
+group by accessemployment;                                                                ---95 spaces
+
+--see which agency has this problem
+select accessemployment, count(accessemployment), agency from bundledservices_all ba
+join demographic d on d.clientid = ba.clientid
+where accessemployment = ' '
+group by accessemployment, agency
+order by accessemployment
+;
+
+---WCTC might have accessemployment input space
+--convert accessemployment space to null
+
+update bundledservices_checkin                                                  
+set accessemployment = null                                                                --95 rows affected
+where accessemployment =' ';  
