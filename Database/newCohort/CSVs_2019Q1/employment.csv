@@ -1,0 +1,13 @@
+﻿,AccessEmployment,EmploymentStatus,EmploymentStartDate,EmploymentRetention,JobTrainingEnrolled,JobTrainingCompleted
+0,No,Not employed,,,Yes,No
+1,Yes,Employed Full Time,9/30/2016 0:00,,Yes,No
+2,No,Employed Part Time,11/16/2013 0:00,Yes,Yes,No
+3,No,Not employed,,,Yes,No
+4,No,Not employed,,,Yes,No
+5,No,Employed Full Time,11/30/2018 0:00,,Yes,No
+6,No,Not employed,,,Yes,No
+7,Yes,Employed Part Time,12/1/2018 0:00,Yes,Yes,No
+8,No,Not employed,,,Yes,No
+9,No,Employed Full Time,8/8/2016 0:00,Yes,Yes,No
+10,Yes,Employed Full Time,1/21/2019 0:00,,No,No
+11,No,Not employed,,,Yes,No
