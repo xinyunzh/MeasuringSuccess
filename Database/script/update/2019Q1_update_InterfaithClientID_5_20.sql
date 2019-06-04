@@ -1,6 +1,6 @@
---update IRC's duplicate check-in clientID
+--update Interfaith's duplicate check-in clientID
 
---find the recordId for the wrong clientID for IRC    
+--find the recordId for the wrong clientID for Interfaith    
 --employmentstartdate should be '2017-06-01'
 select d.dob, d.gender, d.race, d.maritalstatus, r.recordid, r.clientid, r.quarter, r.date, r.baseline_baseline, e.employmentstartdate from records r 
 join demographic d on d.clientid = r.clientid

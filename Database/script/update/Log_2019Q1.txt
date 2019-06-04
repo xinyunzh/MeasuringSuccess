@@ -1,0 +1,42 @@
+----------------------5.17------------------------
+----CCD-----
+Updated CCD's requested changed clientID (total # 23)
+
+----------------------5.20------------------------
+----IRC-----
+Since IRC got back to us late, some data points need to be updated
+updated employment status and employment start date according to IRC's late discrepancy check
+updated one wage data 
+insert new record ID=160018 2019Q1 check-in data
+
+----Interfaith----
+Updated 3 duplicate check-ins according to DOB from the demographic table
+
+----------------------5.21-------------------------
+NO DATA CHANGES 
+Updated forQ view
+
+----------------------5.22-------------------------
+----CitySquare-----
+Updated CitySquare's baseline(before 2019Q1) clients' credit score which has return clients in 2019Q1 using 2019Q1's check-in credit score
+
+----------------------5.29-------------------------
+----IRC-----
+Accidentally found out IRC changed clientid 160060's financials data and incomeexpenses data, had to update it
+Updated IRC clientid 160060 savings, debt, incomeclient, incomehh
+
+
+----------------------5.30-------------------------
+----WCTC-----
+Deleted 7 clients requested by WCTC
+19 rows affected in records table; 7 rows affected in demographic table.
+Date: 2019-5-30
+
+Updated Creditscore_recent_2019Q1 since updated CitySquare's baseline creditscore
+
+----SL-----
+Deleted 12 rows from SharingLife 
+
+----newcohort-----
+Created newcohort schema, have basic data imported.
+

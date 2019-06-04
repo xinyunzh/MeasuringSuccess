@@ -1,0 +1,8 @@
+agency,clientid,quarter,baseline_baseline,dob,dob_cat,gender,race,maritalstatus,highested,housingtype,hhadults,hhchildren,criminalbackground,zipcode,date
+WCTC,1949333,2018 Q1,t,1972-07-05 00:00:00,1971-1980,Female,Multiple,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,,,Yes,76133,2018-01-01 00:00:00
+WCTC,1939471,2018 Q4,t,1981-08-03 00:00:00,1981-1990,Female,Black or African American,Married or Domestic Partnership,Bachelor's Degree,Rents,2,4,No,76244,2018-10-01 00:00:00
+WCTC,1956438,2018 Q4,t,1981-04-04 00:00:00,1981-1990,Male,Hispanic,Married or Domestic Partnership,"HS, GED, or equivalent",Owns,2,3,No,76120,2018-10-01 00:00:00
+WCTC,1954652,2018 Q4,t,1981-04-17 00:00:00,1981-1990,Female,Black or African American,Married or Domestic Partnership,"HS, GED, or equivalent",Owns,2,3,No,76112,2018-10-01 00:00:00
+WCTC,1959057,2019 Q1,t,1999-04-23 00:00:00,1991-2000,Female,Hispanic,Single,"HS, GED, or equivalent",Rents,2,2,No,75061,2019-01-01 00:00:00
+WCTC,1957245,2019 Q1,t,1984-10-11 00:00:00,1981-1990,Male,Black or African American,Single,"HS, GED, or equivalent",Rents,2,2,Yes,76001,2019-01-01 00:00:00
+WCTC,1958934,2019 Q1,t,1976-06-20 00:00:00,1971-1980,Female,Multiple,Married or Domestic Partnership,"HS, GED, or equivalent",Owns,2,2,No,76136,2019-01-01 00:00:00
