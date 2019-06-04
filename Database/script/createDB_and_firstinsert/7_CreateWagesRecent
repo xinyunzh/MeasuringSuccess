@@ -1,0 +1,37 @@
+create table wages_recent1(
+clientid varchar(50),
+quarter_baseline varchar(10),
+wages_baseline int,
+quarter_checkin varchar(10),
+wages_recent int,
+date_checkin timestamp
+);
+
+copy wages_recent1 from 'C:\Users\Leah\Desktop\database\WagesRecent.csv' DELIMITER  ',' csv header;
+
+update wages_recent1 set clientid = case
+when clientid = '1.67E+11' then '1.66822E+11'
+when clientid = '1.66E+11' then '1.66166E+11'
+end
+where clientid in ('1.67E+11','1.66E+11');	
+
+select * from wages_recent1 
+order by clientid asc;
+
+
+create table wages_recent(
+agency varchar(50),
+clientid varchar(50),
+quarter_baseline varchar(10),
+wages_baseline int,
+quarter_checkin varchar(10),
+wages_recent int,
+date_checkin timestamp
+);
+
+insert into wages_recent
+select agency, wr1.* from demographic d
+join wages_recent1 wr1 on wr1.clientid = d.clientid
+order by clientid asc;
+
+drop table wages_recent1;
