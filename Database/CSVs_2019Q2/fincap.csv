@@ -1,0 +1,1695 @@
+,FinCap_Budget,FinCap_Goals,FinCap_EmergencyFund,FinCap_AutoDeposit,FinCap_IncomeExpenses,FinCap_LateFee
+0,Yes,Somewhat confident,Yes,No,Yes,Yes
+1,Yes,Somewhat confident,No,No,Yes,Yes
+2,Yes,Somewhat confident,Yes,No,No,Yes
+3,,,,,,
+4,,,,,,
+5,,,,,,
+6,,,,,,
+7,,,,,,
+8,Yes,Somewhat confident,No,No,Yes,No
+9,Yes,Not at all confident,No,Yes,Yes,Yes
+10,Yes,Very confident,Yes,Yes,Yes,No
+11,Yes,Not at all confident,No,Yes,Yes,Yes
+12,Yes,Somewhat confident,No,No,No,No
+13,Yes,Not at all confident,No,No,Yes,No
+14,,,,,,
+15,,,,,,
+16,Yes,Not at all confident,No,No,No,No
+17,,,,,,
+18,No,Somewhat confident,Yes,Yes,No,Yes
+19,,,,,,
+20,,,,,,
+21,,,,,,
+22,,,,,,
+23,,,,,,
+24,,,,,,
+25,,,,,,
+26,,,,,,
+27,,,,,,
+28,,,,,,
+29,,,,,,
+30,Yes,Very confident,No,No,No,Yes
+31,Yes,Very confident,No,No,No,No
+32,,,,,,
+33,Yes,Very confident,No,No,No,Yes
+34,,,,,,
+35,Yes,Very confident,Yes,No,Yes,No
+36,Yes,Somewhat confident,No,No,No,No
+37,,,,,,
+38,,,,,,
+39,No,Very confident,Yes,Yes,Yes,Yes
+40,Yes,Somewhat confident,No,No,No,Yes
+41,No,Not at all confident,No,No,Yes,Yes
+42,No,Somewhat confident,Yes,No,Yes,Yes
+43,Yes,Very confident,Yes,No,Yes,Yes
+44,Yes,Very confident,Yes,No,Yes,Yes
+45,No,Very confident,Yes,Yes,No,No
+46,No,Somewhat confident,No,Yes,No,No
+47,No,Somewhat confident,No,Yes,Yes,Yes
+48,No,Very confident,Yes,Yes,Yes,Yes
+49,No,Somewhat confident,Yes,Yes,Yes,Yes
+50,,,,,,
+51,,,,,,
+52,,,,,,
+53,No,Somewhat confident,Yes,Yes,Yes,No
+54,Yes,Somewhat confident,No,No,Yes,No
+55,,,,,,
+56,Yes,Somewhat confident,Yes,No,Yes,Yes
+57,No,Somewhat confident,No,No,Yes,Yes
+58,,,,,,
+59,No,Somewhat confident,No,No,No,Yes
+60,No,Somewhat confident,No,No,No,Yes
+61,,,,,,
+62,No,Very confident,No,No,No,Yes
+63,No,Very confident,No,No,No,Yes
+64,,,,,,
+65,Yes,Very confident,Yes,No,No,Yes
+66,No,Not at all confident,No,No,No,No
+67,,,,,,
+68,Yes,Not at all confident,No,No,No,No
+69,No,Somewhat confident,No,No,No,No
+70,No,Very confident,Yes,No,No,Yes
+71,,,,,,
+72,No,Not at all confident,No,No,No,No
+73,,,,,,
+74,,,,,,
+75,,,,,,
+76,,,,,,
+77,Yes,Somewhat confident,No,No,Yes,No
+78,,,,,,
+79,No,Very confident,No,No,No,No
+80,No,Very confident,No,No,No,No
+81,,,,,,
+82,,,,,,
+83,,,,,,
+84,,,,,,
+85,,,,,,
+86,,,,,,
+87,,,,,,
+88,No,Very confident,No,No,Yes,No
+89,No,Very confident,No,No,Yes,No
+90,No,Somewhat confident,No,No,No,No
+91,No,Somewhat confident,No,No,No,No
+92,,,,,,
+93,,,,,,
+94,,,,,,
+95,,,,,,
+96,No,Very confident,No,No,No,Yes
+97,,,,,,
+98,,,,,,
+99,,,,,,
+100,,,,,,
+101,,,,,,
+102,,,,,,
+103,,,,,,
+104,,,,,,
+105,,,,,,
+106,,,,,,
+107,,,,,,
+108,,,,,,
+109,,,,,,
+110,,,,,,
+111,,,,,,
+112,,,,,,
+113,Yes,Very confident,No,Yes,Yes,No
+114,,,,,,
+115,,,,,,
+116,,,,,,
+117,,,,,,
+118,,,,,,
+119,,,,,,
+120,,,,,,
+121,,,,,,
+122,,,,,,
+123,No,Very confident,No,No,No,No
+124,No,Very confident,No,No,No,No
+125,,,,,,
+126,,,,,,
+127,,,,,,
+128,,,,,,
+129,,,,,,
+130,,,,,,
+131,,,,,,
+132,Yes,Very confident,No,No,No,No
+133,Yes,Very confident,No,No,No,No
+134,,,,,,
+135,,,,,,
+136,,,,,,
+137,,,,,,
+138,,,,,,
+139,,,,,,
+140,Yes,Very confident,No,No,No,No
+141,Yes,Very confident,No,No,No,No
+142,,,,,,
+143,,,,,,
+144,Yes,Very confident,No,No,Yes,No
+145,,,,,,
+146,,,,,,
+147,,,,,,
+148,,,,,,
+149,,,,,,
+150,,,,,,
+151,,,,,,
+152,No,Somewhat confident,No,No,No,No
+153,,,,,,
+154,,,,,,
+155,,,,,,
+156,No,Very confident,No,No,No,No
+157,No,Very confident,No,No,Yes,No
+158,No,Very confident,No,No,Yes,No
+159,,,,,,
+160,,,,,,
+161,,,,,,
+162,,,,,,
+163,,,,,,
+164,No,Very confident,Yes,Yes,No,No
+165,No,Very confident,Yes,Yes,No,No
+166,,,,,,
+167,Yes,Very confident,No,Yes,Yes,No
+168,,,,,,
+169,No,Somewhat confident,No,No,No,Yes
+170,,,,,,
+171,,,,,,
+172,,,,,,
+173,Yes,Somewhat confident,No,Yes,No,No
+174,,,,,,
+175,No,Very confident,Yes,No,No,No
+176,No,Very confident,Yes,No,No,No
+177,,,,,,
+178,,,,,,
+179,No,Somewhat confident,No,No,No,Yes
+180,No,Somewhat confident,No,No,No,Yes
+181,No,Very confident,No,Yes,Yes,No
+182,,,,,,
+183,,,,,,
+184,,,,,,
+185,,,,,,
+186,,,,,,
+187,,,,,,
+188,,,,,,
+189,,,,,,
+190,,,,,,
+191,,,,,,
+192,,,,,,
+193,No,Very confident,No,No,Yes,No
+194,No,Very confident,No,No,Yes,No
+195,No,Very confident,No,No,No,No
+196,No,Very confident,No,No,No,No
+197,,,,,,
+198,,,,,,
+199,,,,,,
+200,,,,,,
+201,Yes,Very confident,No,No,No,No
+202,Yes,Very confident,No,No,No,No
+203,No,Very confident,No,No,Yes,Yes
+204,,,,,,
+205,,,,,,
+206,Yes,Very confident,No,No,Yes,Yes
+207,Yes,Very confident,No,No,Yes,Yes
+208,,,,,,
+209,,,,,,
+210,,,,,,
+211,,,,,,
+212,,,,,,
+213,,,,,,
+214,No,Somewhat confident,No,Yes,No,Yes
+215,,,,,,
+216,,,,,,
+217,Yes,Very confident,Yes,No,Yes,No
+218,,,,,,
+219,,,,,,
+220,,,,,,
+221,,,,,,
+222,,,,,,
+223,,,,,,
+224,,,,,,
+225,,,,,,
+226,,,,,,
+227,Yes,Very confident,No,Yes,Yes,No
+228,,,,,,
+229,Yes,Somewhat confident,No,No,Yes,No
+230,,,,,,
+231,,,,,,
+232,Yes,Very confident,No,Yes,Yes,No
+233,,,,,,
+234,,,,,,
+235,,,,,,
+236,,,,,,
+237,,,,,,
+238,Yes,Very confident,No,No,No,No
+239,,,,,,
+240,,,,,,
+241,,,,,,
+242,,,,,,
+243,,,,,,
+244,,,,,,
+245,No,Somewhat confident,No,No,No,No
+246,No,Somewhat confident,No,No,No,No
+247,,,,,,
+248,,,,,,
+249,,,,,,
+250,,,,,,
+251,Yes,Very confident,No,No,Yes,Yes
+252,Yes,Very confident,No,No,Yes,Yes
+253,Yes,Very confident,No,Yes,Yes,No
+254,,,,,,
+255,,,,,,
+256,,,,,,
+257,Yes,Very confident,No,Yes,Yes,No
+258,,,,,,
+259,No,Very confident,No,No,No,No
+260,No,Very confident,No,No,No,No
+261,,,,,,
+262,,,,,,
+263,Yes,Somewhat confident,No,Yes,No,Yes
+264,,,,,,
+265,,,,,,
+266,,,,,,
+267,,,,,,
+268,,,,,,
+269,,,,,,
+270,,,,,,
+271,,,,,,
+272,,,,,,
+273,,,,,,
+274,,,,,,
+275,Yes,Very confident,Yes,Yes,Yes,No
+276,,,,,,
+277,,,,,,
+278,Yes,Very confident,No,No,No,No
+279,Yes,Very confident,No,No,No,No
+280,,,,,,
+281,No,Somewhat confident,No,No,Yes,No
+282,,,,,,
+283,Yes,Somewhat confident,Yes,No,No,No
+284,Yes,Somewhat confident,Yes,No,No,No
+285,,,,,,
+286,,,,,,
+287,No,Very confident,Yes,Yes,No,No
+288,,,,,,
+289,Yes,Very confident,No,No,No,Yes
+290,Yes,Very confident,No,No,No,Yes
+291,,,,,,
+292,,,,,,
+293,,,,,,
+294,,,,,,
+295,,,,,,
+296,,,,,,
+297,,,,,,
+298,,,,,,
+299,,,,,,
+300,No,Very confident,No,No,No,No
+301,No,Very confident,No,No,No,No
+302,,,,,,
+303,,,,,,
+304,,,,,,
+305,,,,,,
+306,,,,,,
+307,No,Not at all confident,No,No,Yes,No
+308,,,,,,
+309,,,,,,
+310,,,,,,
+311,No,Not at all confident,No,No,No,Yes
+312,,,,,,
+313,,,,,,
+314,,,,,,
+315,,,,,,
+316,,,,,,
+317,,,,,,
+318,,,,,,
+319,,,,,,
+320,,,,,,
+321,,,,,,
+322,,,,,,
+323,,,,,,
+324,,,,,,
+325,Yes,Somewhat confident,No,No,No,Yes
+326,,,,,,
+327,,,,,,
+328,,,,,,
+329,,,,,,
+330,,,,,,
+331,No,Somewhat confident,No,No,No,No
+332,No,Somewhat confident,No,No,No,No
+333,,,,,,
+334,Yes,Very confident,Yes,Yes,Yes,No
+335,,,,,,
+336,Yes,Very confident,No,Yes,No,No
+337,,,,,,
+338,,,,,,
+339,,,,,,
+340,,,,,,
+341,,,,,,
+342,,,,,,
+343,,,,,,
+344,,,,,,
+345,,,,,,
+346,No,Very confident,No,No,No,No
+347,No,Very confident,No,No,No,No
+348,,,,,,
+349,,,,,,
+350,,,,,,
+351,,,,,,
+352,,,,,,
+353,,,,,,
+354,Yes,Very confident,No,No,No,Yes
+355,Yes,Very confident,No,No,No,Yes
+356,,,,,,
+357,,,,,,
+358,,,,,,
+359,No,Very confident,No,No,Yes,Yes
+360,No,Very confident,No,No,Yes,Yes
+361,,,,,,
+362,,,,,,
+363,,,,,,
+364,,,,,,
+365,,,,,,
+366,Yes,Very confident,No,No,Yes,No
+367,Yes,Very confident,No,No,Yes,No
+368,,,,,,
+369,,,,,,
+370,,,,,,
+371,,,,,,
+372,No,Very confident,No,No,Yes,No
+373,No,Very confident,No,No,Yes,No
+374,No,Not at all confident,No,No,Yes,No
+375,,,,,,
+376,,,,,,
+377,No,Very confident,No,Yes,Yes,No
+378,,,,,,
+379,Yes,Very confident,No,No,Yes,No
+380,,,,,,
+381,,,,,,
+382,Yes,Very confident,No,No,No,No
+383,Yes,Very confident,No,No,No,No
+384,No,Somewhat confident,No,No,Yes,Yes
+385,No,Somewhat confident,No,No,Yes,Yes
+386,No,Somewhat confident,No,No,Yes,Yes
+387,No,Somewhat confident,No,No,Yes,Yes
+388,,,,,,
+389,,,,,,
+390,,,,,,
+391,,,,,,
+392,,,,,,
+393,,,,,,
+394,No,Somewhat confident,No,No,No,No
+395,No,Somewhat confident,No,No,No,No
+396,,,,,,
+397,,,,,,
+398,Yes,Very confident,No,No,No,No
+399,Yes,Very confident,No,No,No,No
+400,Yes,Somewhat confident,No,Yes,No,No
+401,,,,,,
+402,,,,,,
+403,No,Somewhat confident,No,No,No,No
+404,No,Somewhat confident,No,No,No,No
+405,Yes,Very confident,Yes,Yes,Yes,No
+406,,,,,,
+407,,,,,,
+408,,,,,,
+409,,,,,,
+410,,,,,,
+411,No,Somewhat confident,No,No,No,No
+412,No,Somewhat confident,No,No,No,No
+413,,,,,,
+414,,,,,,
+415,,,,,,
+416,,,,,,
+417,,,,,,
+418,,,,,,
+419,Yes,Very confident,No,Yes,Yes,No
+420,,,,,,
+421,,,,,,
+422,,,,,,
+423,,,,,,
+424,,,,,,
+425,,,,,,
+426,,,,,,
+427,Yes,Somewhat confident,No,No,No,No
+428,Yes,Somewhat confident,No,No,No,No
+429,,,,,,
+430,,,,,,
+431,Yes,Very confident,Yes,No,No,No
+432,,,,,,
+433,,,,,,
+434,,,,,,
+435,,,,,,
+436,,,,,,
+437,,,,,,
+438,No,Somewhat confident,No,No,Yes,No
+439,,,,,,
+440,,,,,,
+441,No,Somewhat confident,No,No,No,Yes
+442,,,,,,
+443,Yes,Very confident,No,No,No,Yes
+444,Yes,Very confident,No,No,No,Yes
+445,Yes,Very confident,No,Yes,No,No
+446,Yes,Very confident,No,Yes,No,No
+447,,,,,,
+448,,,,,,
+449,,,,,,
+450,,,,,,
+451,No,Very confident,No,Yes,No,Yes
+452,No,Very confident,No,Yes,No,Yes
+453,,,,,,
+454,,,,,,
+455,,,,,,
+456,,,,,,
+457,,,,,,
+458,,,,,,
+459,,,,,,
+460,,,,,,
+461,,,,,,
+462,,,,,,
+463,Yes,Very confident,No,No,No,No
+464,Yes,Very confident,No,No,No,No
+465,,,,,,
+466,,,,,,
+467,,,,,,
+468,,,,,,
+469,,,,,,
+470,,,,,,
+471,,,,,,
+472,Yes,Very confident,Yes,Yes,Yes,No
+473,,,,,,
+474,,,,,,
+475,,,,,,
+476,,,,,,
+477,,,,,,
+478,,,,,,
+479,,,,,,
+480,,,,,,
+481,,,,,,
+482,,,,,,
+483,Yes,Very confident,No,Yes,No,No
+484,Yes,Very confident,No,Yes,No,No
+485,,,,,,
+486,,,,,,
+487,,,,,,
+488,No,Somewhat confident,No,Yes,Yes,No
+489,,,,,,
+490,,,,,,
+491,,,,,,
+492,,,,,,
+493,Yes,Very confident,No,No,Yes,No
+494,Yes,Very confident,No,No,Yes,No
+495,Yes,Somewhat confident,No,No,Yes,No
+496,Yes,Not at all confident,No,No,Yes,No
+497,No,Not at all confident,No,No,No,Yes
+498,Yes,Somewhat confident,No,No,Yes,No
+499,Yes,Somewhat confident,No,No,Yes,No
+500,Yes,Somewhat confident,No,No,Yes,No
+501,No,Somewhat confident,No,No,Yes,No
+502,No,Not at all confident,No,No,Yes,Yes
+503,No,Not at all confident,No,No,No,No
+504,Yes,Somewhat confident,No,No,No,No
+505,Yes,Somewhat confident,No,No,Yes,No
+506,Yes,Somewhat confident,No,No,Yes,No
+507,Yes,Not at all confident,No,No,Yes,No
+508,No,Somewhat confident,No,No,No,No
+509,Yes,Somewhat confident,No,No,Yes,No
+510,No,Not at all confident,No,No,Yes,No
+511,Yes,Somewhat confident,No,No,Yes,No
+512,Yes,Somewhat confident,No,No,No,Yes
+513,Yes,Very confident,No,No,Yes,No
+514,No,Not at all confident,No,No,No,Yes
+515,No,Somewhat confident,No,No,No,No
+516,Yes,Somewhat confident,No,No,Yes,No
+517,No,Not at all confident,No,No,No,No
+518,Yes,Somewhat confident,No,No,Yes,No
+519,No,Not at all confident,No,No,No,Yes
+520,Yes,Somewhat confident,No,No,Yes,No
+521,No,Somewhat confident,No,No,No,Yes
+522,No,Not at all confident,No,No,Yes,No
+523,Yes,Very confident,No,No,Yes,No
+524,Yes,Very confident,No,No,Yes,No
+525,Yes,Somewhat confident,No,No,Yes,No
+526,Yes,Very confident,No,No,Yes,No
+527,Yes,Somewhat confident,No,No,Yes,No
+528,Yes,Somewhat confident,No,No,Yes,No
+529,Yes,Somewhat confident,No,No,Yes,No
+530,Yes,Somewhat confident,No,No,Yes,No
+531,No,Very confident,No,No,No,Yes
+532,Yes,Somewhat confident,No,No,Yes,No
+533,Yes,Very confident,No,No,Yes,No
+534,Yes,Very confident,No,Yes,Yes,No
+535,Yes,Somewhat confident,No,No,Yes,No
+536,Yes,Very confident,No,No,Yes,No
+537,Yes,Somewhat confident,No,No,Yes,No
+538,Yes,Very confident,No,No,Yes,No
+539,Yes,Very confident,No,No,Yes,No
+540,Yes,Very confident,No,No,Yes,No
+541,Yes,Very confident,No,No,Yes,No
+542,Yes,Very confident,No,No,Yes,No
+543,Yes,Somewhat confident,No,No,Yes,No
+544,Yes,Somewhat confident,No,No,Yes,No
+545,Yes,Somewhat confident,No,No,Yes,No
+546,Yes,Somewhat confident,No,No,Yes,No
+547,Yes,Very confident,No,No,Yes,No
+548,Yes,Very confident,No,No,Yes,No
+549,Yes,Very confident,No,No,Yes,No
+550,Yes,Very confident,No,No,Yes,No
+551,Yes,Very confident,No,No,Yes,No
+552,Yes,Very confident,No,No,Yes,No
+553,Yes,Very confident,No,No,Yes,No
+554,Yes,Very confident,No,No,Yes,No
+555,Yes,Very confident,No,No,Yes,No
+556,Yes,Not at all confident,No,No,Yes,Yes
+557,No,Somewhat confident,No,No,No,Yes
+558,Yes,Very confident,Yes,No,Yes,No
+559,No,Not at all confident,No,No,No,Yes
+560,Yes,Somewhat confident,No,No,No,Yes
+561,No,Somewhat confident,No,No,No,Yes
+562,Yes,Very confident,No,No,Yes,No
+563,Yes,Very confident,No,No,Yes,No
+564,Yes,Very confident,No,No,Yes,No
+565,No,Not at all confident,No,No,No,Yes
+566,Yes,Very confident,No,No,Yes,No
+567,No,Somewhat confident,No,No,No,Yes
+568,No,Not at all confident,No,No,No,Yes
+569,Yes,Not at all confident,No,No,No,No
+570,No,Not at all confident,No,No,No,No
+571,Yes,Very confident,No,No,Yes,No
+572,Yes,Somewhat confident,No,No,Yes,No
+573,Yes,Very confident,No,No,Yes,No
+574,Yes,Very confident,No,No,Yes,No
+575,Yes,Very confident,No,No,Yes,No
+576,Yes,Somewhat confident,No,No,No,No
+577,No,Somewhat confident,No,No,No,Yes
+578,Yes,Not at all confident,No,No,Yes,No
+579,Yes,Very confident,No,No,Yes,No
+580,No,Not at all confident,No,No,No,Yes
+581,Yes,Very confident,Yes,No,Yes,No
+582,Yes,Very confident,No,No,Yes,No
+583,Yes,Very confident,No,No,Yes,No
+584,Yes,Somewhat confident,No,No,Yes,No
+585,No,Not at all confident,No,No,No,Yes
+586,No,Not at all confident,No,No,No,Yes
+587,Yes,Somewhat confident,No,No,Yes,No
+588,Yes,Somewhat confident,No,No,Yes,No
+589,No,Very confident,No,No,No,No
+590,No,Somewhat confident,No,No,No,No
+591,Yes,Very confident,No,No,Yes,No
+592,No,Somewhat confident,No,No,No,No
+593,No,Not at all confident,No,No,No,Yes
+594,No,Not at all confident,No,No,No,Yes
+595,No,Not at all confident,No,No,No,No
+596,Yes,Very confident,No,No,Yes,No
+597,No,Not at all confident,No,No,No,Yes
+598,No,Not at all confident,No,No,No,Yes
+599,No,Somewhat confident,No,No,No,Yes
+600,No,Somewhat confident,No,No,No,Yes
+601,Yes,Somewhat confident,Yes,Yes,Yes,No
+602,No,Not at all confident,No,No,No,Yes
+603,No,Not at all confident,No,No,No,Yes
+604,Yes,Somewhat confident,Yes,Yes,Yes,No
+605,Yes,Very confident,Yes,Yes,Yes,No
+606,Yes,Very confident,Yes,Yes,Yes,No
+607,Yes,Somewhat confident,Yes,Yes,Yes,Yes
+608,Yes,Somewhat confident,Yes,Yes,Yes,Yes
+609,No,Not at all confident,No,Yes,No,Yes
+610,No,Not at all confident,No,Yes,No,Yes
+611,Yes,Very confident,Yes,Yes,No,Yes
+612,No,Somewhat confident,No,Yes,No,Yes
+613,No,Somewhat confident,No,Yes,No,Yes
+614,Yes,Very confident,Yes,Yes,Yes,No
+615,Yes,Very confident,Yes,Yes,Yes,No
+616,Yes,Very confident,No,Yes,No,Yes
+617,Yes,Very confident,No,Yes,No,Yes
+618,No,Very confident,No,No,Yes,No
+619,No,Very confident,No,No,Yes,No
+620,Yes,Somewhat confident,Yes,Yes,Yes,No
+621,Yes,Somewhat confident,Yes,Yes,Yes,No
+622,Yes,Very confident,Yes,Yes,Yes,No
+623,Yes,Somewhat confident,No,Yes,No,Yes
+624,Yes,Somewhat confident,No,Yes,No,Yes
+625,No,Somewhat confident,No,Yes,Yes,Yes
+626,No,Somewhat confident,No,Yes,Yes,Yes
+627,Yes,Somewhat confident,Yes,Yes,Yes,Yes
+628,No,Somewhat confident,No,No,No,Yes
+629,No,Somewhat confident,No,No,No,Yes
+630,No,Somewhat confident,No,No,No,No
+631,No,Somewhat confident,No,No,No,No
+632,No,Somewhat confident,No,No,No,Yes
+633,Yes,Very confident,No,Yes,No,Yes
+634,Yes,Very confident,No,Yes,No,Yes
+635,Yes,Somewhat confident,No,Yes,Yes,Yes
+636,No,Not at all confident,No,No,No,Yes
+637,No,Not at all confident,No,No,No,Yes
+638,Yes,Not at all confident,No,Yes,No,Yes
+639,Yes,Not at all confident,No,Yes,No,Yes
+640,Yes,Somewhat confident,Yes,Yes,Yes,No
+641,Yes,Somewhat confident,Yes,Yes,Yes,No
+642,Yes,Somewhat confident,No,Yes,No,Yes
+643,Yes,Somewhat confident,No,Yes,No,Yes
+644,Yes,Very confident,Yes,Yes,No,Yes
+645,Yes,Somewhat confident,No,Yes,No,Yes
+646,Yes,Somewhat confident,No,Yes,No,Yes
+647,Yes,Somewhat confident,No,Yes,No,Yes
+648,Yes,Somewhat confident,No,No,No,Yes
+649,Yes,Somewhat confident,No,No,No,Yes
+650,No,Very confident,No,No,Yes,No
+651,No,Very confident,No,No,Yes,No
+652,No,Very confident,Yes,Yes,Yes,No
+653,No,Very confident,Yes,Yes,Yes,No
+654,No,Not at all confident,No,No,No,Yes
+655,No,Not at all confident,No,No,No,No
+656,Yes,Somewhat confident,Yes,Yes,Yes,No
+657,Yes,Very confident,Yes,Yes,Yes,No
+658,Yes,Very confident,Yes,Yes,Yes,No
+659,Yes,Somewhat confident,No,No,No,Yes
+660,Yes,Somewhat confident,No,No,No,Yes
+661,Yes,Very confident,Yes,Yes,Yes,No
+662,Yes,Very confident,Yes,Yes,Yes,No
+663,,,,,,
+664,Yes,Not at all confident,No,No,No,Yes
+665,,,,,,
+666,,,,,,
+667,,,,,,
+668,,,,,,
+669,,,,,,
+670,,,,,,
+671,,,,,,
+672,,,,,,
+673,,,,,,
+674,,,,,,
+675,,,,,,
+676,,,,,,
+677,,,,,,
+678,,,,,,
+679,,,,,,
+680,,,,,,
+681,,,,,,
+682,,,,,,
+683,,,,,,
+684,,,,,,
+685,,,,,,
+686,,,,,,
+687,,,,,,
+688,,,,,,
+689,,,,,,
+690,,,,,,
+691,,,,,,
+692,,,,,,
+693,,,,,,
+694,,,,,,
+695,,,,,,
+696,,,,,,
+697,,,,,,
+698,,,,,,
+699,,,,,,
+700,,,,,,
+701,,,,,,
+702,,,,,,
+703,,,,,,
+704,,,,,,
+705,,,,,,
+706,,,,,,
+707,,,,,,
+708,,,,,,
+709,,,,,,
+710,,,,,,
+711,,,,,,
+712,,,,,,
+713,,,,,,
+714,,,,,,
+715,,,,,,
+716,,,,,,
+717,,,,,,
+718,,,,,,
+719,,,,,,
+720,,,,,,
+721,,,,,,
+722,,,,,,
+723,,,,,,
+724,,,,,,
+725,,,,,,
+726,,,,,,
+727,,,,,,
+728,,,,,,
+729,,,,,,
+730,,,,,,
+731,,,,,,
+732,,,,,,
+733,,,,,,
+734,,,,,,
+735,,,,,,
+736,,,,,,
+737,,,,,,
+738,,,,,,
+739,,,,,,
+740,,,,,,
+741,,,,,,
+742,,,,,,
+743,,,,,,
+744,,,,,,
+745,,,,,,
+746,,,,,,
+747,,,,,,
+748,,,,,,
+749,,,,,,
+750,,,,,,
+751,,,,,,
+752,,,,,,
+753,,,,,,
+754,,,,,,
+755,,,,,,
+756,,,,,,
+757,,,,,,
+758,,,,,,
+759,,,,,,
+760,,,,,,
+761,,,,,,
+762,,,,,,
+763,,,,,,
+764,,,,,,
+765,,,,,,
+766,,,,,,
+767,,,,,,
+768,,,,,,
+769,,,,,,
+770,,,,,,
+771,,,,,,
+772,,,,,,
+773,,,,,,
+774,,,,,,
+775,,,,,,
+776,,,,,,
+777,,,,,,
+778,,,,,,
+779,,,,,,
+780,,,,,,
+781,,,,,,
+782,,,,,,
+783,,,,,,
+784,,,,,,
+785,,,,,,
+786,,,,,,
+787,,,,,,
+788,,,,,,
+789,,,,,,
+790,,,,,,
+791,,,,,,
+792,,,,,,
+793,,,,,,
+794,,,,,,
+795,,,,,,
+796,,,,,,
+797,,,,,,
+798,,,,,,
+799,,,,,,
+800,,,,,,
+801,,,,,,
+802,,,,,,
+803,,,,,,
+804,,,,,,
+805,,,,,,
+806,,,,,,
+807,,,,,,
+808,,,,,,
+809,,,,,,
+810,,,,,,
+811,,,,,,
+812,,,,,,
+813,,,,,,
+814,,,,,,
+815,,,,,,
+816,,,,,,
+817,,,,,,
+818,,,,,,
+819,,,,,,
+820,,,,,,
+821,,,,,,
+822,,,,,,
+823,,,,,,
+824,,,,,,
+825,,,,,,
+826,,,,,,
+827,,,,,,
+828,,,,,,
+829,,,,,,
+830,,,,,,
+831,,,,,,
+832,,,,,,
+833,,,,,,
+834,,,,,,
+835,,,,,,
+836,,,,,,
+837,,,,,,
+838,,,,,,
+839,No,Somewhat confident,No,No,No,No
+840,,,,,,
+841,Yes,Somewhat confident,Yes,Yes,No,No
+842,No,Somewhat confident,No,No,Yes,Yes
+843,Yes,Somewhat confident,Yes,Yes,No,No
+844,Yes,Not at all confident,Yes,Yes,Yes,No
+845,,Somewhat confident,Yes,No,No,No
+846,No,Somewhat confident,No,No,No,No
+847,,,,,,
+848,No,Somewhat confident,No,No,No,Yes
+849,,,,,,
+850,,,,,,
+851,No,Somewhat confident,No,Yes,No,Yes
+852,,,,,,
+853,,,,,,
+854,,,,,,
+855,No,Somewhat confident,No,No,Yes,No
+856,,,,,,
+857,,,,,,
+858,,,,,,
+859,Yes,Very confident,No,No,No,No
+860,No,,Yes,Yes,Yes,No
+861,Yes,Very confident,Yes,Yes,Yes,No
+862,No,Somewhat confident,Yes,Yes,Yes,No
+863,No,Somewhat confident,No,No,No,Yes
+864,No,Somewhat confident,No,No,No,No
+865,No,Not at all confident,No,No,No,No
+866,,,,,,
+867,No,Very confident,Yes,Yes,Yes,No
+868,,,,,,
+869,Yes,Very confident,No,No,No,No
+870,,,,,,
+871,,,,,,
+872,,,,,,
+873,,,,,,
+874,No,Somewhat confident,No,No,No,No
+875,,,,,,
+876,Yes,Very confident,Yes,Yes,No,No
+877,No,Somewhat confident,Yes,Yes,Yes,No
+878,No,Not at all confident,No,No,Yes,Yes
+879,,,,,,
+880,No,Very confident,Yes,No,Yes,No
+881,No,Somewhat confident,Yes,Yes,Yes,Yes
+882,,Somewhat confident,No,No,No,No
+883,,Very confident,Yes,Yes,Yes,No
+884,,,,,,
+885,,,,,,
+886,Yes,Very confident,Yes,No,Yes,No
+887,,Somewhat confident,No,No,Yes,No
+888,,Very confident,Yes,Yes,No,No
+889,No,Very confident,No,No,No,Yes
+890,,,,,,
+891,,,,,,
+892,Yes,Very confident,Yes,No,,No
+893,,,,,,
+894,,,,,,
+895,Yes,Very confident,Yes,Yes,No,No
+896,No,Somewhat confident,No,No,No,Yes
+897,,,,,,
+898,,,,,,
+899,,,,,,
+900,,,,,,
+901,,,,,,
+902,No,Not at all confident,No,No,No,No
+903,,,,,,
+904,,,,,,
+905,,,,,,
+906,Yes,Somewhat confident,Yes,No,No,No
+907,No,Somewhat confident,No,No,No,Yes
+908,No,Very confident,Yes,Yes,Yes,No
+909,Yes,Very confident,No,No,Yes,No
+910,Yes,Somewhat confident,Yes,No,No,No
+911,No,Very confident,No,No,Yes,Yes
+912,,Very confident,Yes,Yes,Yes,No
+913,,,,,,
+914,No,Somewhat confident,No,No,Yes,No
+915,,,,,,
+916,,,,,,
+917,,,,,,
+918,No,Somewhat confident,No,Yes,No,No
+919,Yes,Very confident,Yes,No,No,No
+920,,Very confident,No,Yes,No,Yes
+921,No,Somewhat confident,Yes,Yes,Yes,No
+922,No,Not at all confident,No,No,Yes,Yes
+923,Yes,Not at all confident,No,No,Yes,No
+924,,,,,,
+925,No,,Yes,,Yes,No
+926,,,,,,
+927,,,,,,
+928,No,,No,,No,Yes
+929,No,,No,,No,No
+930,,,,,,
+931,,,,,,
+932,,,,,,
+933,,,,,,
+934,,,,,,
+935,,,,,,
+936,,,,,,
+937,Yes,,No,,No,No
+938,,,,,,
+939,,,,,,
+940,,,,,,
+941,,,,,,
+942,,,,,,
+943,,,,,,
+944,,,,,,
+945,,,,,,
+946,,,,,,
+947,,,,,,
+948,,,,,,
+949,,,,,,
+950,No,,No,,No,No
+951,,,,,,
+952,,,,,,
+953,,,,,,
+954,No,,Yes,,Yes,No
+955,No,,No,No,Yes,Yes
+956,No,,Yes,,Yes,Yes
+957,,,No,,No,No
+958,,,Yes,,Yes,No
+959,,,,,,
+960,Yes,,Yes,,Yes,No
+961,,,No,,Yes,No
+962,No,,No,,No,Yes
+963,,,No,,No,No
+964,,,,,,
+965,Yes,,Yes,,,No
+966,,,,,,
+967,,,,,,
+968,Yes,,Yes,,No,No
+969,No,,No,,No,Yes
+970,,,,,,
+971,,,,,,
+972,,,,,,
+973,No,,No,,No,No
+974,,,,,,
+975,No,,No,,No,No
+976,,,,,,
+977,Yes,,Yes,,No,No
+978,No,,No,,No,Yes
+979,No,,Yes,,Yes,No
+980,Yes,,No,,Yes,No
+981,,,,,,
+982,No,,No,,Yes,Yes
+983,,,,,,
+984,,,,,,
+985,,,,,,
+986,,,,,,
+987,No,,No,,No,No
+988,,,,,,
+989,,,No,Yes,No,Yes
+990,,,,,,
+991,No,,No,No,No,No
+992,,,,,,
+993,,,,,,
+994,,,,,,
+995,,,,,,
+996,,,,,,
+997,,,,,,
+998,,,,,,
+999,,,,,,
+1000,,,,,,
+1001,,,,,,
+1002,,,,,,
+1003,,,,,,
+1004,,,,,,
+1005,,,,,,
+1006,Yes,,No,,Yes,No
+1007,Yes,Somewhat confident,No,No,Yes,No
+1008,Yes,,No,,No,No
+1009,,,,,,
+1010,,,,,,
+1011,Yes,,Yes,,No,No
+1012,,,,,,
+1013,,,,,,
+1014,,,,,,
+1015,,,,,,
+1016,,,,,,
+1017,,,,,,
+1018,,,,,,
+1019,,,,,,
+1020,No,,No,,No,No
+1021,,,,,,
+1022,,,,,,
+1023,,,,,,
+1024,,,,,,
+1025,,,,,,
+1026,,,,,,
+1027,,,,,,
+1028,,,,,,
+1029,,,,,,
+1030,,,,,,
+1031,,,,,,
+1032,,,,,,
+1033,,,,,,
+1034,,,Yes,,No,No
+1035,,,,,,
+1036,,,,,,
+1037,,,,,,
+1038,No,,No,,No,Yes
+1039,,,,,,
+1040,,,,,,
+1041,,,,,,
+1042,,,,,,
+1043,,,,,,
+1044,,,,,,
+1045,,,,,,
+1046,No,,No,,No,Yes
+1047,,,,,,
+1048,,,,,,
+1049,,,,,,
+1050,,,,,,
+1051,,,,,,
+1052,Yes,,Yes,,Yes,No
+1053,No,,No,,Yes,No
+1054,,,,,,
+1055,Yes,,No,,No,Yes
+1056,,,,,,
+1057,,,,,,
+1058,,,,,,
+1059,,,,,,
+1060,,,,,,
+1061,,,,,,
+1062,Yes,,Yes,,No,No
+1063,,,,,,
+1064,,,,,,
+1065,,,,,,
+1066,,,,,,
+1067,,,,,,
+1068,,,,,,
+1069,,,,,,
+1070,,,,,,
+1071,,,,,,
+1072,,,,,,
+1073,,,,,,
+1074,,,,,,
+1075,,,,,,
+1076,,,,,,
+1077,,,,,,
+1078,,,,,,
+1079,,,,,,
+1080,No,,Yes,,Yes,No
+1081,Yes,,Yes,,Yes,No
+1082,Yes,,Yes,,No,No
+1083,,,Yes,,No,No
+1084,,,,,,
+1085,,,,,,
+1086,,,,,,
+1087,,,,,,
+1088,,,,,,
+1089,,,,,,
+1090,,,,,,
+1091,,,,,,
+1092,,,,,,
+1093,,,,,,
+1094,,,,,,
+1095,,,,,,
+1096,,,,,,
+1097,,,,,,
+1098,,,,,,
+1099,,,,,,
+1100,,,,,,
+1101,,,,,,
+1102,,,,,,
+1103,,,,,,
+1104,,,,,,
+1105,,,,,,
+1106,,,,,,
+1107,,,,,,
+1108,,,,,,
+1109,,,,,,
+1110,,,,,,
+1111,,,,,,
+1112,,,,,,
+1113,,,,,,
+1114,,,,,,
+1115,,,,,,
+1116,,,,,,
+1117,,,,,,
+1118,,,,,,
+1119,,,,,,
+1120,,,,,,
+1121,,,,,,
+1122,,,,,,
+1123,,,,,,
+1124,,,,,,
+1125,,,,,,
+1126,,,,,,
+1127,,,,,,
+1128,,,,,,
+1129,,,,,,
+1130,,,,,,
+1131,,,,,,
+1132,,,,,,
+1133,,,,,,
+1134,,,,,,
+1135,,,,,,
+1136,,,,,,
+1137,,,,,,
+1138,,,,,,
+1139,,,,,,
+1140,,,,,,
+1141,,,,,,
+1142,,,,,,
+1143,,,,,,
+1144,,,,,,
+1145,,,,,,
+1146,,,,,,
+1147,,,,,,
+1148,,,,,,
+1149,,,,,,
+1150,,,,,,
+1151,,,,,,
+1152,,,,,,
+1153,,,,,,
+1154,,,,,,
+1155,,,,,,
+1156,,,,,,
+1157,,,,,,
+1158,,,,,,
+1159,,,,,,
+1160,,,,,,
+1161,,,,,,
+1162,,,,,,
+1163,,,,,,
+1164,,,,,,
+1165,,,,,,
+1166,,,,,,
+1167,,,,,,
+1168,,,,,,
+1169,,,,,,
+1170,,,,,,
+1171,,,,,,
+1172,,,,,,
+1173,No,,No,No,Yes,Yes
+1174,,,,,,
+1175,,,,,,
+1176,Yes,Somewhat confident,No,No,Yes,Yes
+1177,Yes,Somewhat confident,No,No,No,No
+1178,No,Somewhat confident,No,No,No,Yes
+1179,Yes,Very confident,Yes,Yes,Yes,Yes
+1180,Yes,Somewhat confident,No,No,No,Yes
+1181,Yes,Somewhat confident,No,No,No,No
+1182,No,Not at all confident,No,No,Yes,No
+1183,No,Somewhat confident,Yes,No,No,Yes
+1184,Yes,Somewhat confident,Yes,No,Yes,No
+1185,Yes,Very confident,No,No,Yes,Yes
+1186,Yes,Somewhat confident,No,Yes,Yes,Yes
+1187,Yes,Very confident,Yes,No,No,Yes
+1188,No,Somewhat confident,No,No,No,No
+1189,No,Somewhat confident,No,No,No,No
+1190,Yes,Very confident,No,No,No,No
+1191,Yes,Somewhat confident,No,No,No,Yes
+1192,No,Very confident,No,No,No,Yes
+1193,No,Not at all confident,No,No,No,Yes
+1194,Yes,Somewhat confident,No,Yes,Yes,No
+1195,No,Very confident,Yes,Yes,No,Yes
+1196,No,Somewhat confident,No,No,No,Yes
+1197,Yes,Very confident,Yes,Yes,No,Yes
+1198,Yes,Somewhat confident,No,Yes,No,Yes
+1199,No,Somewhat confident,No,No,No,Yes
+1200,No,Somewhat confident,No,No,No,No
+1201,No,Somewhat confident,No,No,No,Yes
+1202,No,Somewhat confident,No,No,Yes,No
+1203,Yes,Somewhat confident,No,No,No,Yes
+1204,No,Somewhat confident,No,No,No,No
+1205,Yes,Somewhat confident,Yes,No,No,No
+1206,No,Somewhat confident,No,No,Yes,No
+1207,No,Not at all confident,No,Yes,No,Yes
+1208,Yes,Somewhat confident,Yes,No,No,Yes
+1209,,,,,,
+1210,Yes,Very confident,No,Yes,Yes,Yes
+1211,Yes,Very confident,Yes,No,Yes,No
+1212,Yes,Not at all confident,No,No,No,No
+1213,No,Not at all confident,Yes,No,No,Yes
+1214,No,Very confident,No,Yes,No,Yes
+1215,No,Not at all confident,No,No,No,Yes
+1216,No,Somewhat confident,No,No,No,Yes
+1217,No,Very confident,No,No,Yes,Yes
+1218,Yes,Very confident,No,No,No,Yes
+1219,No,Not at all confident,No,No,Yes,Yes
+1220,Yes,Somewhat confident,No,No,No,Yes
+1221,Yes,Very confident,No,No,No,No
+1222,No,Somewhat confident,No,No,No,No
+1223,No,Not at all confident,No,No,No,No
+1224,No,Very confident,Yes,No,No,No
+1225,Yes,Somewhat confident,No,No,Yes,No
+1226,No,Somewhat confident,No,Yes,No,No
+1227,Yes,Somewhat confident,No,Yes,No,No
+1228,Yes,Very confident,No,No,No,No
+1229,No,Somewhat confident,No,No,No,No
+1230,No,Somewhat confident,No,No,No,No
+1231,No,Somewhat confident,No,No,No,No
+1232,Yes,Somewhat confident,No,Yes,No,Yes
+1233,No,Somewhat confident,No,Yes,Yes,Yes
+1234,Yes,Somewhat confident,No,Yes,Yes,Yes
+1235,Yes,Very confident,No,No,Yes,No
+1236,No,Somewhat confident,No,No,No,Yes
+1237,Yes,Very confident,No,No,No,Yes
+1238,Yes,Very confident,No,No,Yes,No
+1239,Yes,Somewhat confident,No,Yes,Yes,Yes
+1240,Yes,Somewhat confident,No,No,No,Yes
+1241,Yes,Somewhat confident,No,No,No,Yes
+1242,No,Somewhat confident,No,Yes,Yes,No
+1243,Yes,Very confident,Yes,No,No,No
+1244,Yes,Somewhat confident,No,No,No,No
+1245,Yes,Somewhat confident,No,No,No,Yes
+1246,No,Somewhat confident,No,No,Yes,Yes
+1247,No,Somewhat confident,No,No,Yes,No
+1248,No,Somewhat confident,No,No,No,Yes
+1249,Yes,Somewhat confident,No,Yes,No,Yes
+1250,No,Very confident,No,No,No,Yes
+1251,Yes,Not at all confident,Yes,Yes,No,Yes
+1252,Yes,Somewhat confident,No,No,Yes,Yes
+1253,Yes,Somewhat confident,No,No,No,Yes
+1254,Yes,Somewhat confident,No,No,No,No
+1255,No,Somewhat confident,No,Yes,No,No
+1256,Yes,Somewhat confident,No,No,No,Yes
+1257,No,Very confident,No,Yes,Yes,No
+1258,Yes,Somewhat confident,No,No,Yes,Yes
+1259,Yes,Very confident,No,No,Yes,Yes
+1260,No,Somewhat confident,No,No,No,Yes
+1261,No,Somewhat confident,No,No,No,No
+1262,No,Not at all confident,No,No,Yes,Yes
+1263,No,Somewhat confident,Yes,Yes,No,Yes
+1264,Yes,Somewhat confident,No,No,No,No
+1265,Yes,Very confident,No,No,No,No
+1266,No,Somewhat confident,No,No,Yes,Yes
+1267,No,Somewhat confident,No,No,No,Yes
+1268,No,Somewhat confident,No,No,Yes,Yes
+1269,Yes,Somewhat confident,No,Yes,No,Yes
+1270,Yes,Very confident,No,No,No,No
+1271,Yes,Very confident,No,Yes,Yes,No
+1272,Yes,Very confident,No,Yes,No,Yes
+1273,Yes,Somewhat confident,No,Yes,No,Yes
+1274,No,Not at all confident,No,No,No,Yes
+1275,Yes,Somewhat confident,No,Yes,Yes,Yes
+1276,Yes,Very confident,Yes,No,Yes,No
+1277,No,Not at all confident,No,No,No,Yes
+1278,No,Somewhat confident,No,No,No,No
+1279,Yes,Very confident,Yes,No,Yes,Yes
+1280,Yes,Very confident,No,No,No,No
+1281,No,Not at all confident,No,No,No,Yes
+1282,Yes,Somewhat confident,No,No,No,No
+1283,No,Somewhat confident,No,Yes,No,Yes
+1284,No,Somewhat confident,No,No,No,Yes
+1285,No,Somewhat confident,No,No,No,No
+1286,Yes,Very confident,Yes,Yes,Yes,No
+1287,Yes,Somewhat confident,No,Yes,Yes,No
+1288,Yes,Not at all confident,Yes,Yes,Yes,No
+1289,Yes,Somewhat confident,Yes,Yes,No,No
+1290,Yes,Somewhat confident,No,No,Yes,No
+1291,No,Somewhat confident,Yes,No,No,Yes
+1292,No,Somewhat confident,No,Yes,No,No
+1293,Yes,Very confident,Yes,No,Yes,No
+1294,Yes,Somewhat confident,No,No,No,Yes
+1295,Yes,Very confident,No,No,No,Yes
+1296,Yes,Very confident,No,No,No,No
+1297,Yes,Somewhat confident,No,No,Yes,No
+1298,No,Not at all confident,No,No,Yes,No
+1299,Yes,Not at all confident,No,No,Yes,No
+1300,No,Very confident,No,No,Yes,Yes
+1301,No,Very confident,No,No,Yes,No
+1302,Yes,Somewhat confident,No,Yes,Yes,Yes
+1303,No,Very confident,No,No,No,Yes
+1304,No,Somewhat confident,No,Yes,Yes,Yes
+1305,No,Not at all confident,No,No,No,No
+1306,No,Somewhat confident,No,No,No,No
+1307,No,Very confident,No,No,No,Yes
+1308,Yes,Very confident,No,No,Yes,Yes
+1309,Yes,Somewhat confident,No,No,Yes,Yes
+1310,Yes,Very confident,Yes,Yes,No,No
+1311,Yes,Somewhat confident,No,No,No,No
+1312,No,Somewhat confident,Yes,No,No,Yes
+1313,Yes,Very confident,Yes,No,No,Yes
+1314,No,Somewhat confident,No,Yes,No,Yes
+1315,Yes,Somewhat confident,No,No,No,Yes
+1316,Yes,Somewhat confident,Yes,Yes,Yes,Yes
+1317,No,Somewhat confident,No,No,Yes,Yes
+1318,Yes,Very confident,No,Yes,No,No
+1319,Yes,Somewhat confident,No,No,No,Yes
+1320,No,Not at all confident,No,No,No,Yes
+1321,No,Very confident,No,No,Yes,Yes
+1322,Yes,Very confident,No,Yes,Yes,No
+1323,Yes,Very confident,No,No,No,Yes
+1324,Yes,Somewhat confident,No,No,No,Yes
+1325,No,Somewhat confident,No,No,No,No
+1326,Yes,Not at all confident,No,No,No,Yes
+1327,Yes,Very confident,Yes,Yes,No,Yes
+1328,Yes,Very confident,No,No,Yes,Yes
+1329,No,Somewhat confident,No,No,No,Yes
+1330,No,Very confident,No,No,No,No
+1331,Yes,Somewhat confident,Yes,No,No,Yes
+1332,Yes,Somewhat confident,Yes,No,No,Yes
+1333,Yes,Somewhat confident,No,No,No,Yes
+1334,No,Somewhat confident,No,No,Yes,No
+1335,No,Very confident,No,Yes,No,Yes
+1336,Yes,Somewhat confident,No,Yes,Yes,Yes
+1337,No,Not at all confident,No,Yes,Yes,Yes
+1338,No,Very confident,No,No,Yes,No
+1339,No,Somewhat confident,No,No,No,Yes
+1340,No,Very confident,No,No,No,Yes
+1341,No,Very confident,No,No,Yes,Yes
+1342,No,Not at all confident,No,No,Yes,Yes
+1343,,,,,,
+1344,,,,,,
+1345,Yes,Very confident,Yes,No,No,No
+1346,Yes,Somewhat confident,No,Yes,No,Yes
+1347,No,Somewhat confident,No,No,No,No
+1348,Yes,Somewhat confident,No,Yes,No,No
+1349,Yes,Very confident,No,No,No,Yes
+1350,No,Somewhat confident,Yes,Yes,Yes,Yes
+1351,Yes,Very confident,No,No,No,Yes
+1352,No,Not at all confident,No,No,No,Yes
+1353,Yes,Very confident,Yes,No,Yes,Yes
+1354,No,Somewhat confident,No,Yes,No,No
+1355,Yes,Somewhat confident,No,Yes,Yes,No
+1356,Yes,Somewhat confident,No,No,Yes,Yes
+1357,Yes,Very confident,No,Yes,No,Yes
+1358,Yes,Very confident,No,Yes,No,Yes
+1359,No,Somewhat confident,No,No,Yes,No
+1360,No,Very confident,No,No,No,Yes
+1361,No,Very confident,No,Yes,No,Yes
+1362,Yes,Very confident,Yes,No,Yes,Yes
+1363,Yes,Not at all confident,No,No,No,Yes
+1364,No,Very confident,No,No,Yes,No
+1365,Yes,Very confident,No,No,No,No
+1366,Yes,Very confident,No,No,Yes,No
+1367,No,Somewhat confident,No,No,No,No
+1368,Yes,Very confident,No,No,No,Yes
+1369,No,Very confident,No,No,No,Yes
+1370,No,Somewhat confident,No,No,No,Yes
+1371,No,Somewhat confident,No,Yes,No,No
+1372,Yes,Somewhat confident,No,No,Yes,Yes
+1373,Yes,Not at all confident,No,No,Yes,Yes
+1374,,,,,,
+1375,No,Very confident,No,No,No,Yes
+1376,No,Somewhat confident,No,No,No,Yes
+1377,Yes,Somewhat confident,No,No,No,Yes
+1378,No,Not at all confident,,No,Yes,Yes
+1379,Yes,Not at all confident,No,Yes,No,Yes
+1380,No,Very confident,No,No,No,No
+1381,No,Very confident,No,No,No,No
+1382,Yes,Not at all confident,No,Yes,No,Yes
+1383,,,,,,
+1384,Yes,Very confident,No,No,No,No
+1385,No,Somewhat confident,No,,No,Yes
+1386,No,Not at all confident,No,No,No,No
+1387,No,Somewhat confident,No,No,No,Yes
+1388,Yes,Very confident,No,No,Yes,No
+1389,Yes,Very confident,No,No,Yes,No
+1390,Yes,Very confident,Yes,No,No,No
+1391,No,Very confident,No,Yes,Yes,Yes
+1392,No,Very confident,No,No,No,No
+1393,No,Somewhat confident,No,No,Yes,Yes
+1394,No,Somewhat confident,Yes,No,Yes,No
+1395,Yes,Not at all confident,No,No,Yes,No
+1396,Yes,Not at all confident,No,No,Yes,Yes
+1397,No,Very confident,No,No,No,Yes
+1398,No,Not at all confident,No,No,No,No
+1399,,,,,,
+1400,Yes,Somewhat confident,No,No,No,No
+1401,Yes,Somewhat confident,No,No,No,Yes
+1402,Yes,Very confident,No,No,No,Yes
+1403,No,Somewhat confident,No,No,Yes,Yes
+1404,No,Not at all confident,No,No,No,Yes
+1405,Yes,Not at all confident,No,No,Yes,
+1406,No,Somewhat confident,No,No,No,No
+1407,No,Somewhat confident,No,No,No,No
+1408,No,Somewhat confident,No,No,No,No
+1409,Yes,Very confident,No,No,No,Yes
+1410,Yes,Very confident,Yes,No,No,No
+1411,No,Somewhat confident,Yes,No,No,No
+1412,Yes,Somewhat confident,No,Yes,No,No
+1413,Yes,Very confident,Yes,No,No,No
+1414,,,,,,
+1415,No,Very confident,No,No,No,Yes
+1416,No,Somewhat confident,Yes,Yes,No,No
+1417,Yes,Somewhat confident,Yes,Yes,Yes,No
+1418,Yes,Somewhat confident,No,No,Yes,Yes
+1419,No,Not at all confident,No,No,No,Yes
+1420,No,Somewhat confident,No,No,Yes,No
+1421,No,Very confident,No,No,Yes,Yes
+1422,Yes,Somewhat confident,No,Yes,Yes,No
+1423,No,Somewhat confident,No,No,Yes,Yes
+1424,No,Not at all confident,No,No,No,Yes
+1425,,,,,,
+1426,,,,,,
+1427,Yes,Somewhat confident,No,No,Yes,No
+1428,No,Somewhat confident,No,No,No,No
+1429,Yes,Very confident,No,No,No,No
+1430,No,Very confident,No,No,Yes,No
+1431,No,Somewhat confident,No,No,No,No
+1432,Yes,Somewhat confident,No,Yes,Yes,Yes
+1433,No,Very confident,No,No,No,Yes
+1434,No,Very confident,Yes,No,No,No
+1435,No,Very confident,No,No,No,Yes
+1436,Yes,Somewhat confident,No,No,No,No
+1437,No,Very confident,No,No,No,Yes
+1438,Yes,Very confident,No,No,No,Yes
+1439,No,Somewhat confident,No,No,Yes,No
+1440,No,Very confident,No,No,No,Yes
+1441,No,Somewhat confident,No,No,No,No
+1442,Yes,Somewhat confident,No,No,No,No
+1443,No,Not at all confident,No,No,Yes,Yes
+1444,,,,,,
+1445,,,,,,
+1446,,,,,,
+1447,Yes,Very confident,Yes,No,No,No
+1448,,,,,,
+1449,,,,,,
+1450,Yes,Not at all confident,No,No,No,No
+1451,,,,,,
+1452,,,,,,
+1453,Yes,Not at all confident,No,No,Yes,No
+1454,No,Somewhat confident,No,No,Yes,Yes
+1455,,,,,,
+1456,,,,,,
+1457,,,,,,
+1458,,,,,,
+1459,,,,,,
+1460,,,,,,
+1461,Yes,Very confident,No,No,No,No
+1462,No,Somewhat confident,No,No,No,No
+1463,Yes,Very confident,Yes,No,Yes,No
+1464,,,,,,
+1465,,,,,,
+1466,,,,,,
+1467,,,,,,
+1468,,,,,,
+1469,,,,,,
+1470,,,,,,
+1471,,,,,,
+1472,,,,,,
+1473,,,,,,
+1474,,,,,,
+1475,,,,,,
+1476,,,,,,
+1477,,,,,,
+1478,No,Very confident,No,No,No,No
+1479,,,,,,
+1480,,,,,,
+1481,,,,,,
+1482,,,,,,
+1483,,,,,,
+1484,,,,,,
+1485,No,Somewhat confident,No,No,No,No
+1486,,,,,,
+1487,,,,,,
+1488,,,,,,
+1489,,,,,,
+1490,,,,,,
+1491,,,,,,
+1492,,,,,,
+1493,,,,,,
+1494,No,Somewhat confident,No,No,Yes,No
+1495,,,,,,
+1496,,,,,,
+1497,,,,,,
+1498,,,,,,
+1499,,,,,,
+1500,,,,,,
+1501,,,,,,
+1502,Yes,Very confident,Yes,Yes,Yes,No
+1503,,,,,,
+1504,Yes,Somewhat confident,No,Yes,Yes,No
+1505,Yes,Very confident,No,Yes,Yes,No
+1506,,,,,,
+1507,,,,,,
+1508,,,,,,
+1509,,,,,,
+1510,,,,,,
+1511,,,,,,
+1512,,,,,,
+1513,,,,,,
+1514,,,,,,
+1515,,,,,,
+1516,,,,,,
+1517,,,,,,
+1518,,,,,,
+1519,,,,,,
+1520,,,,,,
+1521,No,Somewhat confident,No,Yes,No,No
+1522,,,,,,
+1523,,,,,,
+1524,,,,,,
+1525,,,,,,
+1526,Yes,Very confident,Yes,No,Yes,No
+1527,,,,,,
+1528,,,,,,
+1529,,,,,,
+1530,,,,,,
+1531,,,,,,
+1532,,,,,,
+1533,,,,,,
+1534,,,,,,
+1535,No,Somewhat confident,Yes,No,Yes,No
+1536,,,,,,
+1537,,,,,,
+1538,,,,,,
+1539,,,,,,
+1540,,,,,,
+1541,,,,,,
+1542,,,,,,
+1543,,,,,,
+1544,,,,,,
+1545,,,,,,
+1546,,,,,,
+1547,No,Very confident,No,No,Yes,Yes
+1548,,,,,,
+1549,,,,,,
+1550,,,,,,
+1551,,,,,,
+1552,Yes,Somewhat confident,No,No,No,No
+1553,Yes,Very confident,No,Yes,Yes,No
+1554,,,,,,
+1555,,,,,,
+1556,,,,,,
+1557,,,,,,
+1558,,,,,,
+1559,,,,,,
+1560,,,,,,
+1561,Yes,Somewhat confident,No,Yes,Yes,No
+1562,Yes,Very confident,No,No,No,No
+1563,,,,,,
+1564,,,,,,
+1565,,,,,,
+1566,No,Somewhat confident,No,No,Yes,Yes
+1567,,,,,,
+1568,,,,,,
+1569,No,Very confident,No,No,No,No
+1570,,,,,,
+1571,Yes,Very confident,Yes,No,Yes,No
+1572,,,,,,
+1573,,,,,,
+1574,,,,,,
+1575,,,,,,
+1576,,,,,,
+1577,,,,,,
+1578,,,,,,
+1579,,,,,,
+1580,,,,,,
+1581,,,,,,
+1582,,,,,,
+1583,,,,,,
+1584,,,,,,
+1585,,,,,,
+1586,,,,,,
+1587,,,,,,
+1588,,,,,,
+1589,,,,,,
+1590,,,,,,
+1591,,,,,,
+1592,Yes,Somewhat confident,Yes,No,Yes,Yes
+1593,,,,,,
+1594,,,,,,
+1595,,,,,,
+1596,,,,,,
+1597,,,,,,
+1598,,,,,,
+1599,,,,,,
+1600,,,,,,
+1601,,,,,,
+1602,,,,,,
+1603,,,,,,
+1604,,,,,,
+1605,,,,,,
+1606,,,,,,
+1607,,,,,,
+1608,,,,,,
+1609,,,,,,
+1610,,,,,,
+1611,,,,,,
+1612,,,,,,
+1613,,,,,,
+1614,,,,,,
+1615,,,,,,
+1616,,,,,,
+1617,,,,,,
+1618,Yes,Very confident,No,No,No,Yes
+1619,,,,,,
+1620,,,,,,
+1621,,,,,,
+1622,,,,,,
+1623,,,,,,
+1624,Yes,Very confident,Yes,Yes,Yes,No
+1625,,,,,,
+1626,,,,,,
+1627,,,,,,
+1628,No,Not at all confident,No,No,No,Yes
+1629,,,,,,
+1630,,,,,,
+1631,,,,,,
+1632,,,,,,
+1633,,,,,,
+1634,,,,,,
+1635,,,,,,
+1636,,,,,,
+1637,Yes,Somewhat confident,No,No,Yes,Yes
+1638,,,,,,
+1639,,,,,,
+1640,Yes,Not at all confident,No,No,Yes,Yes
+1641,Yes,Very confident,No,No,Yes,No
+1642,No,Somewhat confident,No,No,No,Yes
+1643,Yes,Somewhat confident,No,No,Yes,No
+1644,Yes,Very confident,Yes,No,No,No
+1645,Yes,Very confident,No,No,No,Yes
+1646,Yes,Very confident,Yes,No,No,No
+1647,No,Somewhat confident,No,No,No,No
+1648,,,,,,
+1649,Yes,Somewhat confident,No,Yes,No,No
+1650,Yes,Somewhat confident,No,No,No,Yes
+1651,No,Very confident,No,No,No,Yes
+1652,Yes,Somewhat confident,No,No,No,No
+1653,No,Somewhat confident,Yes,No,No,No
+1654,Yes,Very confident,No,No,No,No
+1655,No,Not at all confident,No,No,No,Yes
+1656,No,Somewhat confident,No,Yes,No,No
+1657,Yes,Very confident,No,No,No,Yes
+1658,Yes,Very confident,Yes,No,No,No
+1659,Yes,Somewhat confident,No,No,Yes,Yes
+1660,No,Very confident,No,No,No,Yes
+1661,,,,,,
+1662,No,Somewhat confident,No,No,No,No
+1663,No,Very confident,No,Yes,Yes,Yes
+1664,Yes,Somewhat confident,Yes,Yes,Yes,No
+1665,,,,,,
+1666,Yes,Not at all confident,No,No,Yes,No
+1667,No,Somewhat confident,No,No,No,No
+1668,No,Not at all confident,,No,Yes,Yes
+1669,No,Not at all confident,No,No,Yes,Yes
+1670,Yes,Very confident,No,No,Yes,No
+1671,No,Not at all confident,No,No,No,Yes
+1672,No,Very confident,No,No,No,No
+1673,No,Very confident,No,No,No,Yes
+1674,Yes,Very confident,No,No,No,No
+1675,No,Somewhat confident,No,No,Yes,Yes
+1676,No,Somewhat confident,No,No,No,No
+1677,No,Very confident,No,No,Yes,No
+1678,Yes,Somewhat confident,No,Yes,Yes,Yes
+1679,Yes,Somewhat confident,No,No,Yes,Yes
+1680,No,Somewhat confident,No,,No,Yes
+1681,No,Very confident,No,No,No,No
+1682,Yes,Not at all confident,No,Yes,No,Yes
+1683,No,Very confident,No,No,No,Yes
+1684,No,Very confident,No,No,No,Yes
+1685,No,Very confident,No,No,No,Yes
+1686,No,Somewhat confident,Yes,Yes,No,No
+1687,No,Somewhat confident,No,No,No,No
+1688,No,Somewhat confident,No,No,Yes,Yes
+1689,No,Very confident,No,No,Yes,Yes
+1690,Yes,Somewhat confident,No,Yes,Yes,No
+1691,Yes,Somewhat confident,No,No,No,No
+1692,,,,,,
+1693,Yes,Very confident,No,No,No,Yes
