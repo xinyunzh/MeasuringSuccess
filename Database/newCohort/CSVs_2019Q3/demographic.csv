@@ -1,0 +1,101 @@
+Agency,Client ID,Quarter,Baseline,DOB,DOB_Cat,Gender,Race,MaritalStatus,HighestEd,HousingType,HHAdults,HHChildren,CriminalBackground,ZipCode,date,Residential,TANFClient
+IrvingCares,24453098680,2019 Q3,1,5/30/1985,1981-1990,Female,Black or African American,Married or Domestic Partnership,Bachelor's Degree,Rents,2,4,No,75062,9/1/2019,0,
+IrvingCares,24453067785,2019 Q3,1,7/15/1965,1961-1970,Female,Black or African American,Single,"Some college, no degree",Receives free or subsidized housing,1,0,Unknown,75060,9/1/2019,0,
+IrvingCares,24453097152,2019 Q3,1,4/19/1980,1971-1980,Female,White,Single,"HS, GED, or equivalent",Rents,1,3,No,75062,9/1/2019,0,0
+IrvingCares,24453098698,2019 Q3,1,10/15/1968,1961-1970,Female,Black or African American,Single,"HS, GED, or equivalent",Receives free or subsidized housing,1,1,Unknown,75038,9/1/2019,0,0
+IrvingCares,2418412,2019 Q3,1,8/18/1964,1961-1970,Female,White,Widowed,Less than HS,Homeless,1,0,Unknown,75060,9/1/2019,0,0
+IrvingCares,24453098683,2019 Q3,1,1/6/1965,1961-1970,Female,White,Widowed,Less than HS,Lives with Relatives/Friends,2,1,No,75060,9/1/2019,0,0
+IrvingCares,24453098619,2019 Q3,1,5/13/1973,1971-1980,Female,Black or African American,Single,"HS, GED, or equivalent",Rents,1,1,Yes,75061,9/1/2019,0,0
+CEC,2316027,2019 Q3,1,10/24/1963,1961-1970,Female,Black or African American,Married or Domestic Partnership,"Some college, no degree",Owns,5,1,No,76108,9/1/2019,,0
+CEC,2312594,2019 Q3,1,9/2/1965,1961-1970,Female,Black or African American,Single,"HS, GED, or equivalent",Rents,1,0,No,76180,9/1/2019,,0
+CEC,2334425,2019 Q3,1,3/18/1983,1981-1990,Female,Black or African American,Single,Less than HS,Receives free or subsidized housing,1,1,No,76180,9/1/2019,,0
+CEC,2334960,2019 Q3,1,2/24/1984,1981-1990,Female,White,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,2,2,No,76148,9/1/2019,,0
+CEC,2331729,2019 Q3,1,7/19/1963,1961-1970,Female,White,Single,"Some college, no degree",Rents,1,0,No,76148,9/1/2019,,0
+CEC,2333120,2019 Q3,1,2/5/1994,1991-2000,Female,Black or African American,Single,"Some college, no degree",Rents,1,2,No,76104,9/1/2019,,0
+CEC,2334803,2019 Q3,1,1/9/1969,1961-1970,Female,White,Divorced,"Some college, no degree",Owns,1,1,No,76182,9/1/2019,,0
+Mansfield,251526654,2019 Q3,1,5/19/1976,1971-1980,Female,American Indian or Alaska Native,Single,Bachelor's Degree,Rents,1,0,No,76063,9/1/2019,0,0
+Mansfield,25118490,2019 Q3,1,4/25/1975,1971-1980,Male,White,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,2,0,No,76063,9/1/2019,0,0
+Mansfield,25194739,2019 Q3,1,4/6/1992,1991-2000,Male,White,Single,"HS, GED, or equivalent",Lives with Relatives/Friends,1,0,No,76063,9/1/2019,0,0
+Mansfield,25188195,2019 Q3,1,9/14/1966,1961-1970,Female,White,Divorced,Bachelor's Degree,Receives free or subsidized housing,2,0,No,76063,9/1/2019,0,0
+Mansfield,25188508,2019 Q3,1,10/10/1995,1991-2000,Female,Hispanic,Single,"HS, GED, or equivalent",Rents,5,1,No,75054,9/1/2019,0,0
+Mansfield,25057268,2019 Q3,1,1/15/1973,1971-1980,Female,Asian,Married or Domestic Partnership,Associate Degree,Owns,2,1,No,76007,9/1/2019,0,0
+Mansfield,25195140,2019 Q3,1,5/9/1997,1991-2000,Female,White,Single,"Some college, no degree",Lives with Relatives/Friends,1,1,No,76063,9/1/2019,0,0
+Mansfield,25161133,2019 Q3,1,6/29/1975,1971-1980,Female,Black or African American,Married or Domestic Partnership,Associate Degree,Rents,2,3,No,76017,9/1/2019,0,0
+Mansfield,25192627,2019 Q3,1,11/21/1965,1961-1970,Male,Hispanic,Married or Domestic Partnership,Bachelor's Degree,Rents,2,1,No,76028,9/1/2019,0,0
+Mansfield,25106991,2019 Q3,1,6/5/1965,1961-1970,Female,White,Single,Bachelor's Degree,Owns,1,0,No,76063,9/1/2019,0,0
+Mansfield,25118492,2019 Q3,1,8/6/1944,1941-1950,Male,White,Single,Less than HS,Rents,1,0,No,76063,9/1/2019,0,0
+Mansfield,25189519,2019 Q3,1,,,Female,White,Single,Bachelor's Degree,Rents,2,3,Yes,76002,9/1/2019,0,0
+Mansfield,25151839,2019 Q3,1,8/23/1982,1981-1990,Female,Hispanic,Separated,Less than HS,Rents,1,4,No,76002,9/1/2019,0,0
+Mansfield,25197410,2019 Q3,1,12/31/1991,1991-2000,Female,Black or African American,Single,Less than HS,Rents,1,1,No,75052,9/1/2019,0,0
+Mansfield,25193099,2019 Q3,1,1/19/1949,1941-1950,Female,White,Single,"HS, GED, or equivalent",Rents,1,0,No,76063,9/1/2019,0,0
+Mansfield,25138542,2019 Q3,1,8/7/1988,1981-1990,Female,White,Single,Less than HS,Lives with Relatives/Friends,3,6,No,76063,9/1/2019,0,0
+Mansfield,2192067,2019 Q3,1,7/7/2001,2001-2010,Male,White,Single,Less than HS,Lives with Relatives/Friends,2,2,No,76063,9/1/2019,0,0
+Mansfield,25106239,2019 Q3,1,12/10/1977,1971-1980,Female,Black or African American,Single,Bachelor's Degree,Rents,1,0,No,76063,9/1/2019,0,0
+Mansfield,25190073,2019 Q3,1,7/5/2000,1991-2000,Male,Black or African American,Single,"Some college, no degree",Lives with Relatives/Friends,1,0,No,75054,9/1/2019,0,0
+SeniorSource,26a02i000000U4aVp,2019 Q3,1,1/22/1964,1961-1970,Female,Black or African American,Single,,,2,,,75237,9/1/2019,0,
+SeniorSource,26a021Y00000udxWo,2019 Q3,1,6/30/1944,1941-1950,Female,White,Widowed,,,1,,,75230,9/1/2019,0,
+SeniorSource,26a021Y00000vQyjr,2019 Q3,1,8/3/1954,1951-1960,Female,Black or African American,Married or Domestic Partnership,,,2,,,75052,9/1/2019,0,
+SeniorSource,26a021Y00000ux1ns,2019 Q3,1,7/12/1961,1961-1970,Female,White,Single,,,1,,,75043,9/1/2019,0,
+SeniorSource,26a021Y00000skLgk,2019 Q3,1,10/12/1953,1951-1960,Female,Black or African American,Divorced,,,1,,,75211,9/1/2019,0,
+SeniorSource,26a021Y00000uwM8f,2019 Q3,1,7/17/1959,1951-1960,Female,Black or African American,Divorced,,,1,,,75062,9/1/2019,0,
+SeniorSource,26a02i000000lvZbz,2019 Q3,1,10/18/1958,1951-1960,Male,Hispanic,Single,,,1,,,75043,9/1/2019,0,
+SeniorSource,26a02i000000Eqjqk,2019 Q3,1,2/15/1944,1941-1950,Female,Black or African American,Married or Domestic Partnership,,,1,,,75223,9/1/2019,0,
+SeniorSource,26a02i000000YZA5S,2019 Q3,1,1/23/1958,1951-1960,Female,Black or African American,Single,,,1,,,75150,9/1/2019,0,
+SeniorSource,26a02i000000J5HHZ,2019 Q3,1,4/19/1959,1951-1960,Male,Black or African American,Divorced,,,1,,,75287,9/1/2019,0,
+SeniorSource,26a021Y00000uwqgq,2019 Q3,1,6/1/1953,1951-1960,Male,White,Single,,,1,,,75082,9/1/2019,0,
+SeniorSource,26a021Y00000tNyee,2019 Q3,1,8/11/1939,1931-1940,Male,White,Single,,,1,,,75040,9/1/2019,0,
+SeniorSource,26a021Y00000sFqir,2019 Q3,1,3/15/1959,1951-1960,Female,Hispanic,Divorced,,,1,,,75201,9/1/2019,0,
+SeniorSource,26a02i000000Eqo6R,2019 Q3,1,1/26/1950,1941-1950,Female,White,Divorced,,,1,,,75218,9/1/2019,0,
+SeniorSource,26a02i000000Eqk5T,2019 Q3,1,6/9/1963,1961-1970,Female,White,Single,,,1,,,75219,9/1/2019,0,
+SeniorSource,26a021Y00000uwvKa,2019 Q3,1,4/22/1952,1951-1960,Female,Black or African American,Single,,,1,,,75204,9/1/2019,0,
+SeniorSource,26a02i000000EqnXy,2019 Q3,1,4/1/1943,1941-1950,Female,White,Single,,,1,,,75228,9/1/2019,0,
+SeniorSource,26a021Y00000vROZ0,2019 Q3,1,10/22/1960,1951-1960,Female,Multiple,Single,,,1,,,75229,9/1/2019,0,
+SeniorSource,26a021Y00000uwvRi,2019 Q3,1,8/13/1946,1941-1950,Female,Black or African American,Single,,,1,,,75217,9/1/2019,0,
+SeniorSource,26a021Y00000uwcT6,2019 Q3,1,7/19/1955,1951-1960,Female,White,Single,,,1,,,75146,9/1/2019,0,
+SeniorSource,26a021Y00000sl0GX,2019 Q3,1,6/23/1957,1951-1960,Female,Hispanic,Single,,,1,,,75253,9/1/2019,0,
+SeniorSource,26a02i000000Eqmhi,2019 Q3,1,7/14/1955,1951-1960,Female,Black or African American,Single,,,1,,,75115,9/1/2019,0,
+SeniorSource,26a021Y00000sJGZQ,2019 Q3,1,11/4/1956,1951-1960,Female,Black or African American,Single,,,1,,,75043,9/1/2019,0,
+SeniorSource,26a02i000000by0mh,2019 Q3,1,9/22/1956,1951-1960,Female,White,Married or Domestic Partnership,,,2,,,75080,9/1/2019,0,
+SeniorSource,26a021Y00000sjtdh,2019 Q3,1,12/25/1950,1941-1950,Female,Black or African American,Single,,,1,,,75050,9/1/2019,0,
+SeniorSource,26a021Y00000uwzLU,2019 Q3,1,9/24/1963,1961-1970,Female,White,Single,,,1,,,75043,9/1/2019,0,
+SharingLife,2095534,2019 Q3,1,5/21/2001,2001-2010,Female,Hispanic,Single,"HS, GED, or equivalent",Lives with Relatives/Friends,4,1,No,75149,9/1/2019,0,99
+SharingLife,2094278,2019 Q3,1,11/4/1997,1991-2000,Female,White,Single,Less than HS,Lives with Relatives/Friends,2,3,No,75043,9/1/2019,0,99
+SharingLife,2094274,2019 Q3,1,7/5/1996,1991-2000,Female,White,Single,"HS, GED, or equivalent",Lives with Relatives/Friends,2,2,Unknown,75150,9/1/2019,0,99
+SharingLife,2093432,2019 Q3,1,1/16/1980,1971-1980,Female,Black or African American,Single,"Some college, no degree",Rents,2,2,No,75149,9/1/2019,0,99
+SharingLife,2094279,2019 Q3,1,6/18/1984,1981-1990,Female,Hispanic,Single,"HS, GED, or equivalent",Unknown,2,1,No,75126,9/1/2019,0,99
+SharingLife,2090022,2019 Q3,1,2/20/1960,1951-1960,Female,Black or African American,Single,"HS, GED, or equivalent",Unknown,1,,No,75180,9/1/2019,0,99
+SharingLife,2008154,2019 Q3,1,12/14/1978,1971-1980,Female,Black or African American,Divorced,"Some college, no degree",Receives free or subsidized housing,1,2,No,75146,9/1/2019,0,0
+SharingLife,2091183,2019 Q3,1,8/25/1979,1971-1980,Female,Black or African American,Single,Less than HS,Unknown,2,4,No,75089,9/1/2019,0,99
+SharingLife,2091847,2019 Q3,1,12/15/1985,1981-1990,Female,Black or African American,Married or Domestic Partnership,"HS, GED, or equivalent",Unknown,2,2,Yes,75150,9/1/2019,0,99
+SharingLife,2017442,2019 Q3,1,2/23/1968,1961-1970,Female,Black or African American,Single,"HS, GED, or equivalent",Rents,2,1,No,75150,9/1/2019,0,0
+SharingLife,2095535,2019 Q3,1,,,Female,Asian,Married or Domestic Partnership,"Some college, no degree",Unknown,2,,No,75089,9/1/2019,0,99
+SharingLife,2093127,2019 Q3,1,9/16/1986,1981-1990,Female,Black or African American,Single,Less than HS,Rents,2,2,Yes,75181,9/1/2019,0,0
+SharingLife,2092146,2019 Q3,1,8/8/1989,1981-1990,Female,Hispanic,Unknown,"HS, GED, or equivalent",Unknown,1,2,No,75149,9/1/2019,0,99
+SharingLife,2094050,2019 Q3,1,4/7/1967,1961-1970,Female,Black or African American,Married or Domestic Partnership,Associate Degree,Rents,3,1,No,75043,9/1/2019,0,0
+SharingLife,2085913,2019 Q3,1,7/11/2000,1991-2000,Female,Black or African American,Single,"HS, GED, or equivalent",Lives with Relatives/Friends,3,2,No,75149,9/1/2019,0,99
+SharingLife,2094051,2019 Q3,1,2/11/1984,1981-1990,Female,Black or African American,Single,"HS, GED, or equivalent",Unknown,1,,Yes,75146,9/1/2019,0,99
+SharingLife,2092333,2019 Q3,1,5/17/1970,1961-1970,Female,Black or African American,Single,Unknown,Unknown,2,,Unknown,75149,9/1/2019,0,99
+SharingLife,2092509,2019 Q3,1,11/4/1986,1981-1990,Female,Black or African American,Single,Less than HS,Unknown,1,5,No,75181,9/1/2019,0,99
+SharingLife,2050053,2019 Q3,1,9/25/1995,1991-2000,Female,Black or African American,Single,Unknown,Unknown,3,1,Unknown,75150,9/1/2019,0,99
+SharingLife,2071491,2019 Q3,1,4/17/1989,1981-1990,Female,Black or African American,Married or Domestic Partnership,Unknown,Lives with Relatives/Friends,2,4,,75228,9/1/2019,0,99
+SharingLife,2068957,2019 Q3,1,3/13/1988,1981-1990,Female,Hispanic,Single,"HS, GED, or equivalent",Rents,2,2,No,75088,9/1/2019,0,99
+SharingLife,2075468,2019 Q3,1,9/1/1979,1971-1980,Female,Black or African American,Single,"HS, GED, or equivalent",Unknown,1,3,No,75227,9/1/2019,0,99
+SharingLife,2006266,2019 Q3,1,3/10/1969,1961-1970,Female,Black or African American,Single,Less than HS,Unknown,2,4,No,75149,9/1/2019,0,99
+SharingLife,2015311,2019 Q3,1,7/26/1981,1981-1990,Female,Black or African American,Single,"HS, GED, or equivalent",Unknown,1,1,No,75149,9/1/2019,0,99
+SharingLife,2083698,2019 Q3,1,11/17/1980,1971-1980,Female,Black or African American,Single,"Some college, no degree",Receives free or subsidized housing,1,6,,75126,9/1/2019,0,0
+Wilkinson,27106210,2019 Q3,1,4/2/1993,1991-2000,Female,Hispanic,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,2,3,Unknown,75217,9/1/2019,0,
+Wilkinson,27106296,2019 Q3,1,2/28/1967,1961-1970,Female,Black or African American,Single,Unknown,Receives free or subsidized housing,1,0,Unknown,75228,9/1/2019,0,
+Wilkinson,27107402,2019 Q3,1,12/24/1988,1981-1990,Female,Hispanic,Married or Domestic Partnership,"HS, GED, or equivalent",Lives with Relatives/Friends,2,2,Unknown,75217,9/1/2019,0,
+Wilkinson,27107842,2019 Q3,1,9/23/1993,1991-2000,Female,Hispanic,Single,"HS, GED, or equivalent",Owns,2,3,Unknown,75217,9/1/2019,0,
+Wilkinson,27101394,2019 Q3,1,6/14/1997,1991-2000,Female,Hispanic,Single,"HS, GED, or equivalent",Lives with Relatives/Friends,1,0,Unknown,75227,9/1/2019,0,
+Wilkinson,27107625,2019 Q3,1,1/12/1994,1991-2000,Female,Hispanic,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,2,2,Unknown,75159,9/1/2019,0,
+Wilkinson,2707660,2019 Q3,1,5/12/1992,1991-2000,Female,Hispanic,Single,"HS, GED, or equivalent",Rents,1,4,Unknown,75228,9/1/2019,0,
+Allen,218488X,2019 Q3,1,1/17/1973,1971-1980,Female,Asian,Married or Domestic Partnership,Graduate Degree or above,Owns,3,4,No,75002,9/1/2019,0,0
+Allen,218426X,2019 Q3,1,6/24/1983,1981-1990,Female,Unknown,Single,Bachelor's Degree,Rents,1,2,No,75002,9/1/2019,0,99
+Allen,215628X,2019 Q3,1,1/13/1976,1971-1980,Female,Black or African American,Married or Domestic Partnership,"HS, GED, or equivalent",Rents,2,4,No,75002,9/1/2019,0,0
+Allen,2144470,2019 Q3,1,1/17/1973,1971-1980,Female,Black or African American,Divorced,Graduate Degree or above,Rents,2,2,No,75013,9/1/2019,0,0
+Allen,217132X,2019 Q3,1,10/2/1983,1981-1990,Female,Black or African American,Single,Graduate Degree or above,Rents,1,2,No,75002,9/1/2019,0,99
+Allen,2145896,2019 Q3,1,3/5/1983,1981-1990,Female,White,Married or Domestic Partnership,Less than HS,Rents,2,5,No,75002,9/1/2019,0,0
+Allen,2145987,2019 Q3,1,2/27/1987,1981-1990,Female,Hispanic,Married or Domestic Partnership,Less than HS,Rents,2,2,No,75002,9/1/2019,0,0
+Allen,2144306,2019 Q3,1,8/21/1962,1961-1970,Female,Black or African American,Single,Associate Degree,Rents,1,1,No,75070,9/1/2019,0,1
+Allen,2145912,2019 Q3,1,11/5/1987,1981-1990,Female,Black or African American,Single,Less than HS,Receives free or subsidized housing,1,3,No,75002,9/1/2019,0,99

@@ -1,0 +1,183 @@
+,AccessEmployment,EmploymentStatus,EmploymentStartDate,EmploymentRetention,JobTrainingEnrolled,JobTrainingCompleted
+0,Yes,Employed Full Time,2019-03-21,Yes,Yes,Yes
+1,Yes,Employed Full Time,2019-04-06,Yes,Yes,Yes
+2,Yes,Not employed,,No,No,No
+3,Yes,Employed Full Time,2016-08-23,Yes,Yes,Yes
+4,Yes,Not employed,,No,No,No
+5,Yes,Not employed,,No,No,No
+6,Yes,Not employed,,No,Yes,No
+7,Yes,Employed Full Time,2019-04-13,Yes,Yes,Yes
+8,Yes,Employed Full Time,2019-01-02,Yes,No,No
+9,No,Not employed,,No,No,No
+10,Yes,Employed Full Time,2019-04-26,Yes,No,No
+11,Yes,Not employed,,No,No,No
+12,Yes,Employed Full Time,2019-02-25,Yes,Yes,Yes
+13,Yes,Employed Full Time,2019-01-25,Yes,No,No
+14,Yes,Not employed,,No,No,No
+15,Yes,Not employed,,No,No,No
+16,Yes,Employed Full Time,2019-03-11,No,Yes,Yes
+17,Yes,Employed Full Time,2019-04-01,Yes,Yes,Yes
+18,Yes,Employed Full Time,2019-06-27,,No,No
+19,Yes,Employed Full Time,2019-05-10,,,
+20,Yes,Employed Full Time,2019-06-01,,,
+21,Yes,Employed Part Time,2019-06-16,Yes,Yes,Yes
+22,Yes,Not employed,,No,No,No
+23,No,Not employed,,,,No
+24,Yes,Employed Full Time,2019-04-03,Yes,No,No
+25,Yes,Not employed,,No,No,No
+26,Yes,Not employed,,,No,No
+27,No,Not employed,,No,No,No
+28,Yes,Not employed,,,,
+29,Yes,Not employed,,,,
+30,Yes,Not employed,,,,
+31,Yes,Not employed,,,,
+32,Yes,Employed Full Time,2017-10-16,,No,No
+33,Yes,Not employed,,No,No,No
+34,Yes,Employed Full Time,2017-01-05,Yes,Yes,Yes
+35,Yes,Not employed,,Yes,Yes,No
+36,Yes,Not employed,,No,Yes,No
+37,Yes,Not employed,,No,,No
+38,Yes,Employed Full Time,2018-06-04,Yes,No,
+39,Yes,Employed Full Time,2019-01-31,Yes,No,
+40,Yes,Employed Full Time,2019-01-31,Yes,No,
+41,Yes,Employed Full Time,2018-10-01,Yes,No,
+42,Yes,Employed Full Time,2017-01-03,Yes,No,
+43,Yes,Employed Full Time,2017-01-03,Yes,No,
+44,Yes,Not employed,,No,No,
+45,Yes,Employed Full Time,2019-04-01,Yes,No,
+46,Yes,Not employed,,No,No,
+47,Yes,Employed Part Time,2019-01-01,Yes,Yes,No
+48,Yes,Employed Part Time,2019-03-01,Yes,No,
+49,Yes,Not employed,,No,No,
+50,Yes,Employed Full Time,2018-08-03,Yes,No,
+51,Yes,Employed Full Time,2018-12-17,Yes,Yes,Yes
+52,Yes,Not employed,,No,Yes,No
+53,Yes,Employed Part Time,2019-01-15,Yes,No,
+54,Yes,Not employed,,No,No,
+55,Yes,Employed Part Time,2019-02-01,Yes,No,
+56,Yes,Employed Full Time,2019-06-10,Yes,No,
+57,Yes,Employed Full Time,2018-09-25,Yes,No,
+58,Yes,Employed Part Time,2019-05-24,Yes,Yes,Yes
+59,No,Not employed,,,,
+60,No,Not employed,,,,
+61,Yes,Not employed,,,,
+62,Yes,Not employed,,,,
+63,Yes,Not employed,,,Yes,Yes
+64,No,Not employed,,,,
+65,Yes,Not employed,,,Yes,Yes
+66,Yes,Employed Full Time,2019-01-19,,,
+67,No,Not employed,,,,
+68,Yes,Employed Part Time,2018-08-01,,,
+69,Yes,Not employed,,,Yes,Yes
+70,No,Not employed,,,,
+71,Yes,Not employed,,,,
+72,No,Not employed,,,,
+73,Yes,Employed Part Time,2019-01-03,,,
+74,Yes,Not employed,,,,
+75,Yes,Not employed,,,,
+76,Yes,Not employed,,,,
+77,No,Not employed,,,,
+78,No,Not employed,,No,No,No
+79,No,Employed Full Time,,No,No,No
+80,No,Not employed,,No,No,No
+81,No,Employed Part Time,2019-01-04,Yes,No,No
+82,Yes,Not employed,,Yes,No,No
+83,No,Not employed,,No,No,No
+84,No,Employed Full Time,,No,No,No
+85,Yes,Employed Full Time,2019-07-16,Yes,No,No
+86,Yes,Employed Full Time,2019-03-01,Yes,No,No
+87,Yes,Employed Full Time,,Yes,No,No
+88,No,Not employed,,No,No,No
+89,Yes,Not employed,,Yes,No,No
+90,No,Employed Full Time,2018-12-14,No,No,No
+91,Yes,Not employed,,Yes,No,No
+92,Yes,Employed Part Time,2018-12-19,Yes,No,No
+93,No,Not employed,,No,No,No
+94,No,Not employed,,No,No,No
+95,Yes,Not employed,,No,No,No
+96,No,Not employed,,No,No,No
+97,Yes,Not employed,,No,No,No
+98,Yes,Not employed,,No,No,No
+99,Yes,Not employed,,No,No,No
+100,Yes,Not employed,,No,Yes,Yes
+101,Yes,Not employed,,No,No,No
+102,Yes,Not employed,,No,No,No
+103,Yes,Not employed,,No,Yes,Yes
+104,Yes,Not employed,,No,Yes,Yes
+105,Yes,Not employed,,No,No,No
+106,Yes,Not employed,,,Yes,Yes
+107,Yes,Not employed,,,Yes,Yes
+108,Yes,Not employed,,,Yes,Yes
+109,Yes,Not employed,,,Yes,Yes
+110,Yes,Not employed,,,Yes,Yes
+111,Yes,Not employed,,,Yes,Yes
+112,Yes,Employed Full Time,2019-06-04,,Yes,Yes
+113,Yes,Not employed,,,Yes,Yes
+114,Yes,Employed Full Time,2019-04-08,,Yes,Yes
+115,Yes,Not employed,,,Yes,Yes
+116,Yes,Not employed,,,Yes,Yes
+117,Yes,Not employed,,,Yes,Yes
+118,Yes,Not employed,,,Yes,Yes
+119,Yes,Not employed,,,Yes,Yes
+120,Yes,Not employed,,,Yes,Yes
+121,Yes,Not employed,,,Yes,Yes
+122,Yes,Not employed,,,Yes,Yes
+123,Yes,Employed Full Time,2019-05-01,,Yes,Yes
+124,Yes,Not employed,,,Yes,Yes
+125,Yes,Not employed,,,Yes,Yes
+126,Yes,Not employed,,,Yes,Yes
+127,Yes,Not employed,,,Yes,Yes
+128,Yes,Not employed,,,Yes,Yes
+129,Yes,Not employed,,,Yes,Yes
+130,Yes,Employed Full Time,2019-06-03,,Yes,Yes
+131,Yes,Not employed,,,Yes,Yes
+132,Yes,Not employed,,,Yes,Yes
+133,No,Not employed,,No,Yes,Yes
+134,Yes,Employed Part Time,2016-09-30,Yes,Yes,Yes
+135,Yes,Employed Part Time,2013-11-16,Yes,Yes,Yes
+136,Yes,Not employed,,Yes,Yes,Yes
+137,Yes,Not employed,,No,Yes,Yes
+138,Yes,Not employed,,Yes,Yes,Yes
+139,Yes,Not employed,,No,Yes,Yes
+140,Yes,Employed Full Time,2019-04-30,No,Yes,Yes
+141,Yes,Not employed,,No,Yes,Yes
+142,Yes,Employed Full Time,2016-08-08,Yes,Yes,Yes
+143,Yes,Not employed,,No,Yes,Yes
+144,Yes,Not employed,,No,Yes,No
+145,No,Employed Full Time,2018-07-30,Yes,Yes,No
+146,No,Not employed,,No,Yes,No
+147,No,Employed Full Time,2019-06-24,No,Yes,No
+148,Yes,Not employed,,,Yes,No
+149,Yes,Not employed,,,Yes,No
+150,Yes,Not employed,,,Yes,No
+151,Yes,Not employed,,,Yes,No
+152,Yes,Not employed,,No,Yes,No
+153,Yes,Not employed,,No,Yes,No
+154,Yes,Not employed,,No,Yes,No
+155,Yes,Not employed,,No,Yes,No
+156,Yes,Not employed,,No,Yes,No
+157,Yes,Not employed,,No,Yes,No
+158,Yes,Not employed,,No,Yes,No
+159,Yes,Employed Full Time,2019-05-15,Yes,Yes,No
+160,Yes,Not employed,,No,Yes,No
+161,Yes,Not employed,,Yes,Yes,No
+162,Yes,Not employed,,No,Yes,No
+163,Yes,Not employed,,No,Yes,No
+164,Yes,Not employed,,No,Yes,No
+165,Yes,Not employed,,No,Yes,No
+166,Yes,Not employed,,No,Yes,No
+167,Yes,Not employed,,No,Yes,No
+168,Yes,Not employed,,Yes,Yes,No
+169,Yes,Not employed,,No,Yes,No
+170,Yes,Not employed,,Yes,Yes,No
+171,Yes,Not employed,,No,Yes,No
+172,Yes,Employed Full Time,2019-04-22,Yes,Yes,No
+173,Yes,Not employed,,No,Yes,No
+174,Yes,Not employed,,No,Yes,No
+175,Yes,Not employed,,No,Yes,No
+176,Yes,Employed Part Time,2019-05-07,Yes,Yes,No
+177,Yes,Not employed,,No,Yes,No
+178,Yes,Not employed,,No,Yes,No
+179,Yes,Not employed,,No,Yes,No
+180,Yes,Not employed,,Yes,Yes,No
+181,Yes,Not employed,,No,Yes,No
